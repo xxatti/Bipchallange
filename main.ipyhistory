@@ -1,0 +1,1501 @@
+{
+ "checkpoints": [
+  {
+   "timestamp": 1716394525930,
+   "notebook": 0,
+   "targetCells": [
+    {
+     "cell": "c.0.0",
+     "changeType": "added",
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716394561478,
+   "notebook": 1,
+   "targetCells": [
+    {
+     "cell": "c.0.1",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716394568306,
+   "notebook": 2,
+   "targetCells": [
+    {
+     "cell": "c.0.2",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    },
+    {
+     "cell": "c.1.0",
+     "changeType": "added",
+     "index": 1
+    }
+   ]
+  },
+  {
+   "timestamp": 1716394578343,
+   "notebook": 3,
+   "targetCells": [
+    {
+     "cell": "c.0.3",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716394585814,
+   "notebook": 4,
+   "targetCells": [
+    {
+     "cell": "c.0.4",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716394587325,
+   "notebook": 5,
+   "targetCells": [
+    {
+     "cell": "c.0.4",
+     "changeType": "output changed",
+     "output": [
+      "o.0.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716394705842,
+   "notebook": 6,
+   "targetCells": [
+    {
+     "cell": "c.0.5",
+     "changeType": "edited",
+     "output": []
+    }
+   ]
+  },
+  {
+   "timestamp": 1716664357385,
+   "notebook": 7,
+   "targetCells": [
+    {
+     "cell": "c.0.6",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667225130,
+   "notebook": 8,
+   "targetCells": [
+    {
+     "cell": "c.0.7",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667257288,
+   "notebook": 9,
+   "targetCells": [
+    {
+     "cell": "c.0.8",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667394724,
+   "notebook": 10,
+   "targetCells": [
+    {
+     "cell": "c.0.9",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667401253,
+   "notebook": 11,
+   "targetCells": [
+    {
+     "cell": "c.0.10",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667408245,
+   "notebook": 12,
+   "targetCells": [
+    {
+     "cell": "c.0.11",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667418944,
+   "notebook": 13,
+   "targetCells": [
+    {
+     "cell": "c.0.12",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667456598,
+   "notebook": 14,
+   "targetCells": [
+    {
+     "cell": "c.0.13",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667488810,
+   "notebook": 15,
+   "targetCells": [
+    {
+     "cell": "c.0.14",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667513042,
+   "notebook": 16,
+   "targetCells": [
+    {
+     "cell": "c.0.15",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667530448,
+   "notebook": 17,
+   "targetCells": [
+    {
+     "cell": "c.0.16",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667553925,
+   "notebook": 18,
+   "targetCells": [
+    {
+     "cell": "c.0.17",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667616495,
+   "notebook": 19,
+   "targetCells": [
+    {
+     "cell": "c.0.18",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667640969,
+   "notebook": 20,
+   "targetCells": [
+    {
+     "cell": "c.0.19",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667643271,
+   "notebook": 21,
+   "targetCells": [
+    {
+     "cell": "c.0.19",
+     "changeType": "output changed",
+     "output": [
+      "o.1.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667761004,
+   "notebook": 22,
+   "targetCells": [
+    {
+     "cell": "c.0.20",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667768285,
+   "notebook": 23,
+   "targetCells": [
+    {
+     "cell": "c.0.21",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667777706,
+   "notebook": 24,
+   "targetCells": [
+    {
+     "cell": "c.0.22",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667801543,
+   "notebook": 25,
+   "targetCells": [
+    {
+     "cell": "c.0.23",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716667804220,
+   "notebook": 26,
+   "targetCells": [
+    {
+     "cell": "c.0.23",
+     "changeType": "output changed",
+     "output": [
+      "o.2.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668404382,
+   "notebook": 27,
+   "targetCells": [
+    {
+     "cell": "c.0.24",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668455802,
+   "notebook": 28,
+   "targetCells": [
+    {
+     "cell": "c.0.25",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668467773,
+   "notebook": 29,
+   "targetCells": [
+    {
+     "cell": "c.0.26",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668470097,
+   "notebook": 30,
+   "targetCells": [
+    {
+     "cell": "c.0.26",
+     "changeType": "output changed",
+     "output": [
+      "o.3.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668532255,
+   "notebook": 31,
+   "targetCells": [
+    {
+     "cell": "c.0.27",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668534837,
+   "notebook": 32,
+   "targetCells": [
+    {
+     "cell": "c.0.27",
+     "changeType": "output changed",
+     "output": [
+      "o.4.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668754276,
+   "notebook": 33,
+   "targetCells": [
+    {
+     "cell": "c.0.28",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668866655,
+   "notebook": 34,
+   "targetCells": [
+    {
+     "cell": "c.0.29",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668879148,
+   "notebook": 35,
+   "targetCells": [
+    {
+     "cell": "c.0.30",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668881824,
+   "notebook": 36,
+   "targetCells": [
+    {
+     "cell": "c.0.30",
+     "changeType": "output changed",
+     "output": [
+      "o.5.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668934046,
+   "notebook": 37,
+   "targetCells": [
+    {
+     "cell": "c.0.31",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668936530,
+   "notebook": 38,
+   "targetCells": [
+    {
+     "cell": "c.0.31",
+     "changeType": "output changed",
+     "output": [
+      "o.6.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668946456,
+   "notebook": 39,
+   "targetCells": [
+    {
+     "cell": "c.0.32",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668950364,
+   "notebook": 40,
+   "targetCells": [
+    {
+     "cell": "c.0.32",
+     "changeType": "output changed",
+     "output": [
+      "o.7.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668958900,
+   "notebook": 41,
+   "targetCells": [
+    {
+     "cell": "c.0.33",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716668963929,
+   "notebook": 42,
+   "targetCells": [
+    {
+     "cell": "c.0.34",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669009744,
+   "notebook": 43,
+   "targetCells": [
+    {
+     "cell": "c.0.35",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669012017,
+   "notebook": 44,
+   "targetCells": [
+    {
+     "cell": "c.0.35",
+     "changeType": "output changed",
+     "output": [
+      "o.8.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669017466,
+   "notebook": 45,
+   "targetCells": [
+    {
+     "cell": "c.0.36",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669019727,
+   "notebook": 46,
+   "targetCells": [
+    {
+     "cell": "c.0.36",
+     "changeType": "output changed",
+     "output": [
+      "o.9.0"
+     ],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669497565,
+   "notebook": 47,
+   "targetCells": [
+    {
+     "cell": "c.0.37",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669549802,
+   "notebook": 48,
+   "targetCells": [
+    {
+     "cell": "c.0.38",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669716714,
+   "notebook": 49,
+   "targetCells": [
+    {
+     "cell": "c.0.39",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669742964,
+   "notebook": 50,
+   "targetCells": [
+    {
+     "cell": "c.0.40",
+     "changeType": "edited",
+     "output": [],
+     "index": 0
+    }
+   ]
+  },
+  {
+   "timestamp": 1716669745476,
+   "notebook": 51,
+   "targetCells": [
+    {
+     "cell": "c.0.40",
+     "changeType": "output changed",
+     "output": [
+      "o.10.0"
+     ],
+     "index": 0
+    }
+   ]
+  }
+ ],
+ "notebook": {
+  "artifact_name": "n.0",
+  "versions": [
+   {
+    "start_checkpoint": 1716394525930,
+    "cells": [
+     "c.0.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716394561478,
+    "cells": [
+     "c.0.1"
+    ]
+   },
+   {
+    "start_checkpoint": 1716394568306,
+    "cells": [
+     "c.0.2",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716394578343,
+    "cells": [
+     "c.0.3",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716394585814,
+    "cells": [
+     "c.0.4",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716394587325,
+    "cells": [
+     "c.0.4",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716394705842,
+    "cells": [
+     "c.0.5",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716664357385,
+    "cells": [
+     "c.0.6",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667225130,
+    "cells": [
+     "c.0.7",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667257288,
+    "cells": [
+     "c.0.8",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667394724,
+    "cells": [
+     "c.0.9",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667401253,
+    "cells": [
+     "c.0.10",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667408245,
+    "cells": [
+     "c.0.11",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667418944,
+    "cells": [
+     "c.0.12",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667456598,
+    "cells": [
+     "c.0.13",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667488810,
+    "cells": [
+     "c.0.14",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667513042,
+    "cells": [
+     "c.0.15",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667530448,
+    "cells": [
+     "c.0.16",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667553925,
+    "cells": [
+     "c.0.17",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667616495,
+    "cells": [
+     "c.0.18",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667640969,
+    "cells": [
+     "c.0.19",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667643271,
+    "cells": [
+     "c.0.19",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667761004,
+    "cells": [
+     "c.0.20",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667768285,
+    "cells": [
+     "c.0.21",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667777706,
+    "cells": [
+     "c.0.22",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667801543,
+    "cells": [
+     "c.0.23",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716667804220,
+    "cells": [
+     "c.0.23",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668404382,
+    "cells": [
+     "c.0.24",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668455802,
+    "cells": [
+     "c.0.25",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668467773,
+    "cells": [
+     "c.0.26",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668470097,
+    "cells": [
+     "c.0.26",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668532255,
+    "cells": [
+     "c.0.27",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668534837,
+    "cells": [
+     "c.0.27",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668754276,
+    "cells": [
+     "c.0.28",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668866655,
+    "cells": [
+     "c.0.29",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668879148,
+    "cells": [
+     "c.0.30",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668881824,
+    "cells": [
+     "c.0.30",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668934046,
+    "cells": [
+     "c.0.31",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668936530,
+    "cells": [
+     "c.0.31",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668946456,
+    "cells": [
+     "c.0.32",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668950364,
+    "cells": [
+     "c.0.32",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668958900,
+    "cells": [
+     "c.0.33",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716668963929,
+    "cells": [
+     "c.0.34",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669009744,
+    "cells": [
+     "c.0.35",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669012017,
+    "cells": [
+     "c.0.35",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669017466,
+    "cells": [
+     "c.0.36",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669019727,
+    "cells": [
+     "c.0.36",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669497565,
+    "cells": [
+     "c.0.37",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669549802,
+    "cells": [
+     "c.0.38",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669716714,
+    "cells": [
+     "c.0.39",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669742964,
+    "cells": [
+     "c.0.40",
+     "c.1.0"
+    ]
+   },
+   {
+    "start_checkpoint": 1716669745476,
+    "cells": [
+     "c.0.40",
+     "c.1.0"
+    ]
+   }
+  ]
+ },
+ "codeCells": [
+  {
+   "output_histories": {
+    "4": "o.0",
+    "19": "o.1",
+    "23": "o.2",
+    "26": "o.3",
+    "27": "o.4",
+    "30": "o.5",
+    "31": "o.6",
+    "32": "o.7",
+    "35": "o.8",
+    "36": "o.9",
+    "40": "o.10"
+   },
+   "artifact_name": "c.0",
+   "versions": [
+    {
+     "start_checkpoint": 1716394525930,
+     "parent": "n.0.0",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    },
+    {
+     "start_checkpoint": 1716394561478,
+     "parent": "n.0.1",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n\n\nlog = pm4py.read_xes('./data/RequestForPayment.xes')\ndataframe = pm4py.convert_to_dataframe(log)\n\ndataframe.to_csv('RequestForPayment.csv', sep=';', decimal=\",\")"
+    },
+    {
+     "start_checkpoint": 1716394568306,
+     "parent": "n.0.2",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716394578343,
+     "parent": "n.0.3",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716394585814,
+     "parent": "n.0.4",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\nprint(\"hello\")\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716394705842,
+     "parent": "n.0.6",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716664357385,
+     "parent": "n.0.7",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\nlog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\nfiltered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\n"
+    },
+    {
+     "start_checkpoint": 1716667225130,
+     "parent": "n.0.8",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes('.DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667257288,
+     "parent": "n.0.9",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes('DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667394724,
+     "parent": "n.0.10",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes(./'DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667401253,
+     "parent": "n.0.11",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes(/.'DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667408245,
+     "parent": "n.0.12",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes(..'DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667418944,
+     "parent": "n.0.13",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes(../'DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667456598,
+     "parent": "n.0.14",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes('DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667488810,
+     "parent": "n.0.15",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes('./data/DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667513042,
+     "parent": "n.0.16",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nimport case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes('./data/DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667530448,
+     "parent": "n.0.17",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nlog = pm4py.read_xes('./data/DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667553925,
+     "parent": "n.0.18",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\ndataframe = pm4py.convert_to_dataframe(log)\nnational_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\nnational_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667616495,
+     "parent": "n.0.19",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\n#national_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716667640969,
+     "parent": "n.0.20",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(national_log.head())\n"
+    },
+    {
+     "start_checkpoint": 1716667761004,
+     "parent": "n.0.22",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\ndataframe = pm4py.convert_to_dataframe(log)\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(national_log.head())\n"
+    },
+    {
+     "start_checkpoint": 1716667768285,
+     "parent": "n.0.23",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\ndataframe = pm4py.read_xes('./data/DomesticDeclarations.xes')\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(dataframe.head())\n"
+    },
+    {
+     "start_checkpoint": 1716667777706,
+     "parent": "n.0.24",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\ndataframe = pm4py.convert_to_dataframe('./data/DomesticDeclarations.xes')\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(dataframe.head())\n"
+    },
+    {
+     "start_checkpoint": 1716667801543,
+     "parent": "n.0.25",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\ndataframe = pm4py.convert_to_dataframe(national_log)\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(dataframe.head())\n"
+    },
+    {
+     "start_checkpoint": 1716668404382,
+     "parent": "n.0.27",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\n#nationallog = pm4py.read_xes(\"tests/input_data/running-example.xes\")\n\n#filtered_log = pm4py.filter_between(log, \"check ticket\", \"decide\")\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'submission']\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716668455802,
+     "parent": "n.0.28",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\nfiltered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n\n#submission_events = dataframe[dataframe['concept:name'] == 'submission']\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n"
+    },
+    {
+     "start_checkpoint": 1716668467773,
+     "parent": "n.0.29",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\nfiltered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n\n#submission_events = dataframe[dataframe['concept:name'] == 'submission']\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(filtered_log)\n\n"
+    },
+    {
+     "start_checkpoint": 1716668532255,
+     "parent": "n.0.31",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\nfiltered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\nall_case_durations = pm4py.get_all_case_durations(filtered_log)\n\n#submission_events = dataframe[dataframe['concept:name'] == 'submission']\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(all_case_durations)\n\n"
+    },
+    {
+     "start_checkpoint": 1716668754276,
+     "parent": "n.0.33",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\nf#iltered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\nprint(all_case_durations)\n\n"
+    },
+    {
+     "start_checkpoint": 1716668866655,
+     "parent": "n.0.34",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} seconds\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716668879148,
+     "parent": "n.0.35",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\n\nprint(f\"Average Throughput from Submission to Paying: {merged_events} seconds\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716668934046,
+     "parent": "n.0.37",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds()\n\nprint(f\"Average Throughput from Submission to Paying: {merged_events} seconds\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716668946456,
+     "parent": "n.0.39",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds()\naverage_throughput = merged_events['duration'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} seconds\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716668958900,
+     "parent": "n.0.41",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_days()\naverage_throughput = merged_events['duration'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} seconds\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716668963929,
+     "parent": "n.0.42",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_day()\naverage_throughput = merged_events['duration'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} seconds\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716669009744,
+     "parent": "n.0.43",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds() / 86400\naverage_throughput = merged_events['duration'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} seconds\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716669017466,
+     "parent": "n.0.45",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds() / 86400\naverage_throughput = merged_events['duration'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} days\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716669497565,
+     "parent": "n.0.47",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds() / 86400\n\nQ1 = merged_events['duration_days'].quantile(0.25)\nQ3 = merged_events['duration_days'].quantile(0.75)\nIQR = Q3 - Q1\n\nlower_bound = Q1 - 1.5 * IQR\nupper_bound = Q3 + 1.5 * IQR\n\nfiltered_events = merged_events[(merged_events['duration_days'] >= lower_bound) & (merged_events['duration_days'] <= upper_bound)]\n\naverage_throughput = filtered_events['duration_days'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} days\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716669549802,
+     "parent": "n.0.48",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\ndataframe['time:timestamp'] = pd.to_datetime(dataframe['time:timestamp'])\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds() / 86400\n\nQ1 = merged_events['duration_days'].quantile(0.25)\nQ3 = merged_events['duration_days'].quantile(0.75)\nIQR = Q3 - Q1\n\nlower_bound = Q1 - 1.5 * IQR\nupper_bound = Q3 + 1.5 * IQR\n\nfiltered_events = merged_events[(merged_events['duration_days'] >= lower_bound) & (merged_events['duration_days'] <= upper_bound)]\n\naverage_throughput = filtered_events['duration_days'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} days\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716669716714,
+     "parent": "n.0.49",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\ndataframe['time:timestamp'] = pd.to_datetime(dataframe['time:timestamp'])\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds() / 86400\n\nQ1 = merged_events['duration'].quantile(0.25)\nQ3 = merged_events['duration'].quantile(0.75)\nIQR = Q3 - Q1\n\nlower_bound = Q1 - 1.5 * IQR\nupper_bound = Q3 + 1.5 * IQR\n\nfiltered_events = merged_events[(merged_events['duration_days'] >= lower_bound) & (merged_events['duration_days'] <= upper_bound)]\n\naverage_throughput = filtered_events['duration_days'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} days\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    },
+    {
+     "start_checkpoint": 1716669742964,
+     "parent": "n.0.50",
+     "literal": "import pm4py # type: ignore\nimport pandas as pd\nfrom pm4py.statistics.traces.generic.log import case_statistics\n\nnational_log = pm4py.read_xes('./data/DomesticDeclarations.xes')\n\n#filtered_log = pm4py.filter_between(log, \"Declaration SUBMITTED by EMPLOYEE\", \"Payment Handled\")\n#all_case_durations = pm4py.get_all_case_durations(filtered_log)\n\ndataframe['time:timestamp'] = pd.to_datetime(dataframe['time:timestamp'])\n\nsubmission_events = dataframe[dataframe['concept:name'] == 'Declaration SUBMITTED by EMPLOYEE']\npaying_events = dataframe[dataframe['concept:name'] == 'Payment Handled']\n\nmerged_events = pd.merge(submission_events, paying_events, on='case:concept:name', suffixes=('_submission', '_paying'))\nmerged_events['duration'] = merged_events['time:timestamp_paying'] - merged_events['time:timestamp_submission']\nmerged_events['duration'] = merged_events['duration'].dt.total_seconds() / 86400\n\nQ1 = merged_events['duration'].quantile(0.25)\nQ3 = merged_events['duration'].quantile(0.75)\nIQR = Q3 - Q1\n\nlower_bound = Q1 - 1.5 * IQR\nupper_bound = Q3 + 1.5 * IQR\n\nfiltered_events = merged_events[(merged_events['duration'] >= lower_bound) & (merged_events['duration'] <= upper_bound)]\n\naverage_throughput = filtered_events['duration'].mean()\n\nprint(f\"Average Throughput from Submission to Paying: {average_throughput} days\")\n\n\n#dataframe = pm4py.convert_to_dataframe(log)\n#national_throughput = case_statistics.get_all_case_durations(national_log, parameters={})\n#national_average_throughput = sum(national_throughput.values()) / len(national_throughput)\n\n\n"
+    }
+   ]
+  },
+  {
+   "output_histories": {},
+   "artifact_name": "c.1",
+   "versions": [
+    {
+     "start_checkpoint": 1716394568306,
+     "parent": "n.0.2",
+     "start": {
+      "line": 1,
+      "ch": 0
+     },
+     "end": {
+      "line": 1,
+      "ch": 0
+     }
+    }
+   ]
+  }
+ ],
+ "markdownCells": [],
+ "rawCells": [],
+ "snippets": [],
+ "output": [
+  {
+   "artifact_name": "o.0",
+   "versions": [
+    {
+     "start_checkpoint": 1716394587325,
+     "parent": "c.0.4",
+     "raw": [
+      {
+       "name": "stdout",
+       "text": "hello\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.1",
+   "versions": [
+    {
+     "start_checkpoint": 1716667643271,
+     "parent": "c.0.19",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 10858.31it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "                        id  org:resource  \\\n0          st_step 86794_0  STAFF MEMBER   \n1          st_step 86793_0  STAFF MEMBER   \n2  dd_declaration 86791_19        SYSTEM   \n3  dd_declaration 86791_20        SYSTEM   \n4          st_step 86798_0  STAFF MEMBER   \n\n                               concept:name            time:timestamp  \\\n0         Declaration SUBMITTED by EMPLOYEE 2017-01-09 09:49:50+00:00   \n1  Declaration FINAL_APPROVED by SUPERVISOR 2017-01-09 11:27:48+00:00   \n2                           Request Payment 2017-01-10 09:34:44+00:00   \n3                           Payment Handled 2017-01-12 17:31:22+00:00   \n4         Declaration SUBMITTED by EMPLOYEE 2017-01-09 10:26:14+00:00   \n\n     org:role            case:id  case:concept:name case:BudgetNumber  \\\n0    EMPLOYEE  declaration 86791  declaration 86791      budget 86566   \n1  SUPERVISOR  declaration 86791  declaration 86791      budget 86566   \n2   UNDEFINED  declaration 86791  declaration 86791      budget 86566   \n3   UNDEFINED  declaration 86791  declaration 86791      budget 86566   \n4    EMPLOYEE  declaration 86795  declaration 86795      budget 86566   \n\n     case:DeclarationNumber  case:Amount  \n0  declaration number 86792    26.851205  \n1  declaration number 86792    26.851205  \n2  declaration number 86792    26.851205  \n3  declaration number 86792    26.851205  \n4  declaration number 86796   182.464172  \n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.2",
+   "versions": [
+    {
+     "start_checkpoint": 1716667804220,
+     "parent": "c.0.23",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 10686.94it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "                        id  org:resource  \\\n0          st_step 86794_0  STAFF MEMBER   \n1          st_step 86793_0  STAFF MEMBER   \n2  dd_declaration 86791_19        SYSTEM   \n3  dd_declaration 86791_20        SYSTEM   \n4          st_step 86798_0  STAFF MEMBER   \n\n                               concept:name            time:timestamp  \\\n0         Declaration SUBMITTED by EMPLOYEE 2017-01-09 09:49:50+00:00   \n1  Declaration FINAL_APPROVED by SUPERVISOR 2017-01-09 11:27:48+00:00   \n2                           Request Payment 2017-01-10 09:34:44+00:00   \n3                           Payment Handled 2017-01-12 17:31:22+00:00   \n4         Declaration SUBMITTED by EMPLOYEE 2017-01-09 10:26:14+00:00   \n\n     org:role            case:id  case:concept:name case:BudgetNumber  \\\n0    EMPLOYEE  declaration 86791  declaration 86791      budget 86566   \n1  SUPERVISOR  declaration 86791  declaration 86791      budget 86566   \n2   UNDEFINED  declaration 86791  declaration 86791      budget 86566   \n3   UNDEFINED  declaration 86791  declaration 86791      budget 86566   \n4    EMPLOYEE  declaration 86795  declaration 86795      budget 86566   \n\n     case:DeclarationNumber  case:Amount  \n0  declaration number 86792    26.851205  \n1  declaration number 86792    26.851205  \n2  declaration number 86792    26.851205  \n3  declaration number 86792    26.851205  \n4  declaration number 86796   182.464172  \n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.3",
+   "versions": [
+    {
+     "start_checkpoint": 1716668470097,
+     "parent": "c.0.26",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 10665.81it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "                             id  org:resource  \\\n0               st_step 86794_0  STAFF MEMBER   \n1               st_step 86793_0  STAFF MEMBER   \n2       dd_declaration 86791_19        SYSTEM   \n3       dd_declaration 86791_20        SYSTEM   \n4               st_step 86798_0  STAFF MEMBER   \n...                         ...           ...   \n56432          st_step 138363_0  STAFF MEMBER   \n56433          st_step 138361_0  STAFF MEMBER   \n56434          st_step 138362_0  STAFF MEMBER   \n56435  dd_declaration 138359_19        SYSTEM   \n56436  dd_declaration 138359_20        SYSTEM   \n\n                                   concept:name            time:timestamp  \\\n0             Declaration SUBMITTED by EMPLOYEE 2017-01-09 09:49:50+00:00   \n1      Declaration FINAL_APPROVED by SUPERVISOR 2017-01-09 11:27:48+00:00   \n2                               Request Payment 2017-01-10 09:34:44+00:00   \n3                               Payment Handled 2017-01-12 17:31:22+00:00   \n4             Declaration SUBMITTED by EMPLOYEE 2017-01-09 10:26:14+00:00   \n...                                         ...                       ...   \n56432         Declaration SUBMITTED by EMPLOYEE 2018-12-29 17:50:14+00:00   \n56433    Declaration APPROVED by ADMINISTRATION 2018-12-29 17:56:13+00:00   \n56434  Declaration FINAL_APPROVED by SUPERVISOR 2019-01-03 08:55:52+00:00   \n56435                           Request Payment 2019-01-08 08:20:28+00:00   \n56436                           Payment Handled 2019-01-10 17:31:08+00:00   \n\n             org:role             case:id        case:concept:name  \\\n0            EMPLOYEE   declaration 86791   declaration 86791##@@0   \n1          SUPERVISOR   declaration 86791   declaration 86791##@@0   \n2           UNDEFINED   declaration 86791   declaration 86791##@@0   \n3           UNDEFINED   declaration 86791   declaration 86791##@@0   \n4            EMPLOYEE   declaration 86795   declaration 86795##@@0   \n...               ...                 ...                      ...   \n56432        EMPLOYEE  declaration 138359  declaration 138359##@@0   \n56433  ADMINISTRATION  declaration 138359  declaration 138359##@@0   \n56434      SUPERVISOR  declaration 138359  declaration 138359##@@0   \n56435       UNDEFINED  declaration 138359  declaration 138359##@@0   \n56436       UNDEFINED  declaration 138359  declaration 138359##@@0   \n\n      case:BudgetNumber     case:DeclarationNumber  case:Amount  \n0          budget 86566   declaration number 86792    26.851205  \n1          budget 86566   declaration number 86792    26.851205  \n2          budget 86566   declaration number 86792    26.851205  \n3          budget 86566   declaration number 86792    26.851205  \n4          budget 86566   declaration number 86796   182.464172  \n...                 ...                        ...          ...  \n56432      budget 86566  declaration number 138360   190.404576  \n56433      budget 86566  declaration number 138360   190.404576  \n56434      budget 86566  declaration number 138360   190.404576  \n56435      budget 86566  declaration number 138360   190.404576  \n56436      budget 86566  declaration number 138360   190.404576  \n\n[55131 rows x 10 columns]\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.4",
+   "versions": [
+    {
+     "start_checkpoint": 1716668534837,
+     "parent": "c.0.27",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 10747.18it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "[92010.0, 96227.0, 96795.0, 98315.0, 100248.0, 107412.0, 109700.0, 110283.0, 110487.0, 110968.0, 111802.0, 112010.0, 112396.0, 112467.0, 113425.0, 114007.0, 114825.0, 115662.0, 117181.0, 117239.0, 117354.0, 117388.0, 121377.0, 121408.0, 145581.0, 145641.0, 149005.0, 152889.0, 155716.0, 155736.0, 159474.0, 166315.0, 166881.0, 169778.0, 170839.0, 171458.0, 172242.0, 174815.0, 175903.0, 176209.0, 177164.0, 177261.0, 178016.0, 178196.0, 178217.0, 178610.0, 178741.0, 179247.0, 180504.0, 180761.0, 181511.0, 182059.0, 182321.0, 182360.0, 182421.0, 182737.0, 182826.0, 182936.0, 183562.0, 183888.0, 184059.0, 184309.0, 184788.0, 184862.0, 185015.0, 185285.0, 185324.0, 185553.0, 185553.0, 185691.0, 185696.0, 185697.0, 185765.0, 185853.0, 185855.0, 186018.0, 186128.0, 186436.0, 186440.0, 186447.0, 186763.0, 186983.0, 187326.0, 187994.0, 188589.0, 189204.0, 189550.0, 189631.0, 189775.0, 190286.0, 190437.0, 190608.0, 190616.0, 190693.0, 191829.0, 192131.0, 192174.0, 192873.0, 192877.0, 193004.0, 193081.0, 193253.0, 193326.0, 193398.0, 193469.0, 193483.0, 193548.0, 193556.0, 193577.0, 193749.0, 194128.0, 194293.0, 194379.0, 194425.0, 194457.0, 194626.0, 194656.0, 194657.0, 194819.0, 194982.0, 195267.0, 195319.0, 195452.0, 195532.0, 195568.0, 195606.0, 195674.0, 195713.0, 195733.0, 195758.0, 195804.0, 195901.0, 195921.0, 195968.0, 195991.0, 196100.0, 196119.0, 196141.0, 196205.0, 196226.0, 196300.0, 196361.0, 196549.0, 196727.0, 196731.0, 196742.0, 196792.0, 196866.0, 197042.0, 197197.0, 197325.0, 197645.0, 197768.0, 197829.0, 197849.0, 197967.0, 197983.0, 198144.0, 198173.0, 198189.0, 198293.0, 198351.0, 198356.0, 198408.0, 198559.0, 198571.0, 198599.0, 198615.0, 198657.0, 198693.0, 198749.0, 198834.0, 198858.0, 199030.0, 199031.0, 199108.0, 199148.0, 199414.0, 199530.0, 199633.0, 199682.0, 199841.0, 199859.0, 199862.0, 199883.0, 199983.0, 200013.0, 200084.0, 200130.0, 200185.0, 200279.0, 200383.0, 200451.0, 200475.0, 200614.0, 200876.0, 201053.0, 201143.0, 201453.0, 201547.0, 201561.0, 201584.0, 201744.0, 201771.0, 201868.0, 201878.0, 201917.0, 202075.0, 202076.0, 202165.0, 202237.0, 202320.0, 202350.0, 202513.0, 202640.0, 202859.0, 202956.0, 203091.0, 203249.0, 203313.0, 203332.0, 203368.0, 203470.0, 203556.0, 203650.0, 203728.0, 203774.0, 203785.0, 203800.0, 203967.0, 204091.0, 204415.0, 204518.0, 204546.0, 204664.0, 204681.0, 204744.0, 204773.0, 205412.0, 205443.0, 206270.0, 206868.0, 207306.0, 207705.0, 209874.0, 236693.0, 237804.0, 238064.0, 238771.0, 238810.0, 239253.0, 240014.0, 240888.0, 241497.0, 241506.0, 242168.0, 242726.0, 242884.0, 243038.0, 244575.0, 244658.0, 244749.0, 244824.0, 245089.0, 245307.0, 245569.0, 246535.0, 246715.0, 246739.0, 246943.0, 246981.0, 247021.0, 247183.0, 247491.0, 247623.0, 248083.0, 248280.0, 248827.0, 249753.0, 249771.0, 249797.0, 249959.0, 250441.0, 250552.0, 250984.0, 251032.0, 251546.0, 252773.0, 252899.0, 253269.0, 254174.0, 254717.0, 254719.0, 254811.0, 256282.0, 256708.0, 257100.0, 257365.0, 257782.0, 257801.0, 257887.0, 258041.0, 258091.0, 258175.0, 258185.0, 258325.0, 258371.0, 258376.0, 258508.0, 258945.0, 258948.0, 259065.0, 259199.0, 259289.0, 259381.0, 259414.0, 259543.0, 259610.0, 259646.0, 259724.0, 259989.0, 260007.0, 260031.0, 260113.0, 260241.0, 260275.0, 260385.0, 260401.0, 260618.0, 260881.0, 260944.0, 261209.0, 261356.0, 261454.0, 261587.0, 261653.0, 261696.0, 261857.0, 261893.0, 261908.0, 261911.0, 262049.0, 262103.0, 262117.0, 262122.0, 262206.0, 262277.0, 262288.0, 262310.0, 262315.0, 262324.0, 262503.0, 262509.0, 262529.0, 262568.0, 262661.0, 262696.0, 262711.0, 262863.0, 262945.0, 262961.0, 262983.0, 263001.0, 263003.0, 263083.0, 263096.0, 263189.0, 263225.0, 263280.0, 263337.0, 263557.0, 263562.0, 263635.0, 263646.0, 263765.0, 263862.0, 263909.0, 264091.0, 264146.0, 264263.0, 264449.0, 264651.0, 264675.0, 264879.0, 264971.0, 265124.0, 265145.0, 265150.0, 265222.0, 265255.0, 265272.0, 265370.0, 265461.0, 265508.0, 265532.0, 265656.0, 265857.0, 265926.0, 266089.0, 266110.0, 266251.0, 266263.0, 266301.0, 266327.0, 266369.0, 266530.0, 266532.0, 266561.0, 266709.0, 266738.0, 266770.0, 266774.0, 266945.0, 266965.0, 266994.0, 267023.0, 267048.0, 267106.0, 267144.0, 267194.0, 267304.0, 267306.0, 267331.0, 267366.0, 267443.0, 267522.0, 267538.0, 267541.0, 267639.0, 267668.0, 267744.0, 267853.0, 267897.0, 267914.0, 267949.0, 267953.0, 268080.0, 268381.0, 268401.0, 268405.0, 268417.0, 268509.0, 268512.0, 268631.0, 268723.0, 268785.0, 268807.0, 268897.0, 268912.0, 268982.0, 269039.0, 269061.0, 269091.0, 269228.0, 269248.0, 269366.0, 269391.0, 269420.0, 269482.0, 269544.0, 269551.0, 269580.0, 269640.0, 269689.0, 269698.0, 269739.0, 269751.0, 269764.0, 269892.0, 269910.0, 269956.0, 269957.0, 270046.0, 270165.0, 270176.0, 270180.0, 270222.0, 270253.0, 270279.0, 270329.0, 270374.0, 270412.0, 270459.0, 270476.0, 270517.0, 270531.0, 270743.0, 270851.0, 270896.0, 270966.0, 270968.0, 271001.0, 271021.0, 271038.0, 271048.0, 271234.0, 271246.0, 271247.0, 271268.0, 271387.0, 271418.0, 271509.0, 271647.0, 271651.0, 271690.0, 271720.0, 271784.0, 271835.0, 271894.0, 271924.0, 271932.0, 271976.0, 272325.0, 272327.0, 272347.0, 272410.0, 272560.0, 272560.0, 272598.0, 272634.0, 272636.0, 272643.0, 272752.0, 272831.0, 272856.0, 272917.0, 272925.0, 272962.0, 272969.0, 273046.0, 273049.0, 273061.0, 273091.0, 273134.0, 273145.0, 273381.0, 273389.0, 273415.0, 273448.0, 273524.0, 273537.0, 273567.0, 273588.0, 273597.0, 273628.0, 273685.0, 273697.0, 273716.0, 273810.0, 273879.0, 273913.0, 274077.0, 274104.0, 274130.0, 274156.0, 274174.0, 274177.0, 274267.0, 274294.0, 274312.0, 274327.0, 274341.0, 274411.0, 274412.0, 274471.0, 274477.0, 274480.0, 274516.0, 274563.0, 274640.0, 274699.0, 274715.0, 274721.0, 274765.0, 274812.0, 274814.0, 274864.0, 274872.0, 274901.0, 274903.0, 274918.0, 274930.0, 275011.0, 275054.0, 275107.0, 275120.0, 275213.0, 275390.0, 275406.0, 275410.0, 275432.0, 275433.0, 275510.0, 275541.0, 275554.0, 275570.0, 275572.0, 275610.0, 275665.0, 275682.0, 275780.0, 275782.0, 275799.0, 275811.0, 275924.0, 275938.0, 275966.0, 276011.0, 276046.0, 276071.0, 276142.0, 276168.0, 276222.0, 276271.0, 276377.0, 276386.0, 276394.0, 276677.0, 276677.0, 276730.0, 276764.0, 276860.0, 276924.0, 276959.0, 277135.0, 277162.0, 277185.0, 277246.0, 277351.0, 277386.0, 277398.0, 277433.0, 277517.0, 277525.0, 277537.0, 277645.0, 277649.0, 277712.0, 277717.0, 277748.0, 277756.0, 277869.0, 278025.0, 278070.0, 278118.0, 278137.0, 278219.0, 278220.0, 278227.0, 278349.0, 278379.0, 278386.0, 278392.0, 278430.0, 278431.0, 278548.0, 278601.0, 278740.0, 278781.0, 278806.0, 278859.0, 278967.0, 278968.0, 278988.0, 278993.0, 279032.0, 279047.0, 279078.0, 279112.0, 279129.0, 279139.0, 279147.0, 279164.0, 279181.0, 279199.0, 279261.0, 279262.0, 279320.0, 279403.0, 279420.0, 279443.0, 279460.0, 279473.0, 279488.0, 279489.0, 279520.0, 279536.0, 279554.0, 279606.0, 279726.0, 279731.0, 279751.0, 279763.0, 279794.0, 279851.0, 279865.0, 279875.0, 279888.0, 279940.0, 279965.0, 280009.0, 280044.0, 280146.0, 280168.0, 280169.0, 280200.0, 280256.0, 280306.0, 280330.0, 280349.0, 280373.0, 280383.0, 280444.0, 280542.0, 280549.0, 280568.0, 280602.0, 280673.0, 280772.0, 280778.0, 280797.0, 280822.0, 280854.0, 280857.0, 280944.0, 280950.0, 280993.0, 281025.0, 281055.0, 281062.0, 281084.0, 281130.0, 281139.0, 281231.0, 281339.0, 281348.0, 281368.0, 281384.0, 281407.0, 281416.0, 281460.0, 281480.0, 281559.0, 281562.0, 281572.0, 281588.0, 281617.0, 281617.0, 281619.0, 281625.0, 281666.0, 281687.0, 281689.0, 281712.0, 281793.0, 281854.0, 281883.0, 281899.0, 281930.0, 281931.0, 281948.0, 281955.0, 281976.0, 282035.0, 282043.0, 282057.0, 282073.0, 282156.0, 282169.0, 282170.0, 282177.0, 282239.0, 282240.0, 282241.0, 282375.0, 282413.0, 282444.0, 282455.0, 282488.0, 282498.0, 282540.0, 282548.0, 282571.0, 282586.0, 282680.0, 282685.0, 282690.0, 282694.0, 282727.0, 282760.0, 282812.0, 282829.0, 282835.0, 282848.0, 282875.0, 282882.0, 282894.0, 282939.0, 282943.0, 282965.0, 282976.0, 282977.0, 283000.0, 283006.0, 283021.0, 283111.0, 283133.0, 283200.0, 283254.0, 283257.0, 283277.0, 283324.0, 283413.0, 283415.0, 283420.0, 283431.0, 283459.0, 283484.0, 283487.0, 283491.0, 283493.0, 283499.0, 283499.0, 283503.0, 283521.0, 283521.0, 283562.0, 283576.0, 283596.0, 283605.0, 283613.0, 283642.0, 283658.0, 283720.0, 283727.0, 283748.0, 283757.0, 283761.0, 283791.0, 283795.0, 283804.0, 283849.0, 283875.0, 283884.0, 283894.0, 283900.0, 283903.0, 283915.0, 283917.0, 283940.0, 283950.0, 283991.0, 284010.0, 284033.0, 284057.0, 284072.0, 284188.0, 284188.0, 284198.0, 284258.0, 284270.0, 284306.0, 284385.0, 284387.0, 284395.0, 284404.0, 284444.0, 284449.0, 284486.0, 284495.0, 284536.0, 284567.0, 284578.0, 284585.0, 284589.0, 284595.0, 284604.0, 284627.0, 284650.0, 284670.0, 284705.0, 284723.0, 284739.0, 284754.0, 284757.0, 284758.0, 284812.0, 284819.0, 284861.0, 284864.0, 284900.0, 284975.0, 285033.0, 285044.0, 285047.0, 285048.0, 285074.0, 285088.0, 285103.0, 285110.0, 285116.0, 285147.0, 285153.0, 285167.0, 285175.0, 285186.0, 285212.0, 285244.0, 285246.0, 285265.0, 285266.0, 285310.0, 285333.0, 285341.0, 285345.0, 285364.0, 285493.0, 285495.0, 285511.0, 285521.0, 285554.0, 285599.0, 285645.0, 285675.0, 285729.0, 285735.0, 285743.0, 285772.0, 285782.0, 285792.0, 285842.0, 285860.0, 285888.0, 285901.0, 285904.0, 285937.0, 285949.0, 285964.0, 285981.0, 286017.0, 286146.0, 286172.0, 286188.0, 286195.0, 286217.0, 286305.0, 286339.0, 286362.0, 286415.0, 286463.0, 286492.0, 286501.0, 286502.0, 286514.0, 286552.0, 286580.0, 286588.0, 286602.0, 286623.0, 286624.0, 286627.0, 286652.0, 286686.0, 286712.0, 286727.0, 286738.0, 286755.0, 286883.0, 286886.0, 286892.0, 286892.0, 286898.0, 286935.0, 286976.0, 287011.0, 287052.0, 287054.0, 287060.0, 287063.0, 287103.0, 287118.0, 287127.0, 287159.0, 287164.0, 287173.0, 287190.0, 287196.0, 287208.0, 287235.0, 287259.0, 287276.0, 287306.0, 287308.0, 287314.0, 287318.0, 287355.0, 287380.0, 287382.0, 287395.0, 287405.0, 287423.0, 287488.0, 287503.0, 287521.0, 287522.0, 287533.0, 287539.0, 287566.0, 287589.0, 287589.0, 287623.0, 287660.0, 287662.0, 287677.0, 287684.0, 287735.0, 287773.0, 287783.0, 287804.0, 287808.0, 287819.0, 287826.0, 287836.0, 287839.0, 287879.0, 287881.0, 287906.0, 287926.0, 287930.0, 287952.0, 287985.0, 288008.0, 288021.0, 288071.0, 288099.0, 288099.0, 288145.0, 288162.0, 288164.0, 288228.0, 288251.0, 288253.0, 288271.0, 288276.0, 288316.0, 288395.0, 288398.0, 288439.0, 288446.0, 288459.0, 288498.0, 288499.0, 288518.0, 288544.0, 288548.0, 288551.0, 288679.0, 288691.0, 288696.0, 288708.0, 288710.0, 288731.0, 288748.0, 288782.0, 288847.0, 288870.0, 288871.0, 288911.0, 288938.0, 288942.0, 288944.0, 288974.0, 288977.0, 288993.0, 289030.0, 289055.0, 289060.0, 289079.0, 289091.0, 289107.0, 289109.0, 289126.0, 289139.0, 289165.0, 289217.0, 289313.0, 289337.0, 289409.0, 289433.0, 289448.0, 289524.0, 289661.0, 289701.0, 289977.0, 289993.0, 290035.0, 290108.0, 290119.0, 290169.0, 290170.0, 290222.0, 290337.0, 290343.0, 290355.0, 290362.0, 290424.0, 290466.0, 290478.0, 290503.0, 290510.0, 290557.0, 290616.0, 290631.0, 290660.0, 290707.0, 290730.0, 290771.0, 290773.0, 290774.0, 290928.0, 291083.0, 291159.0, 291244.0, 291292.0, 291322.0, 291360.0, 291522.0, 291565.0, 291625.0, 291679.0, 291682.0, 291709.0, 291724.0, 291842.0, 291850.0, 291893.0, 291962.0, 292031.0, 292106.0, 292176.0, 292210.0, 292301.0, 292317.0, 292405.0, 292410.0, 292434.0, 292444.0, 292447.0, 292467.0, 292477.0, 292498.0, 292499.0, 292606.0, 292748.0, 292757.0, 292981.0, 292989.0, 293133.0, 293326.0, 293339.0, 293407.0, 293444.0, 293863.0, 294165.0, 294329.0, 294581.0, 294585.0, 294961.0, 295821.0, 322382.0, 323131.0, 323323.0, 323708.0, 323985.0, 324108.0, 324227.0, 324661.0, 324880.0, 325663.0, 325876.0, 326270.0, 326403.0, 326528.0, 326646.0, 326942.0, 327132.0, 327157.0, 327389.0, 327529.0, 327539.0, 327818.0, 328064.0, 328172.0, 328318.0, 328328.0, 328366.0, 328398.0, 328590.0, 328647.0, 328910.0, 329609.0, 329680.0, 329721.0, 329833.0, 330184.0, 330377.0, 330434.0, 330547.0, 330631.0, 330756.0, 330918.0, 331059.0, 331925.0, 331991.0, 332045.0, 332155.0, 332164.0, 332243.0, 332331.0, 332409.0, 333073.0, 333759.0, 333843.0, 334308.0, 334482.0, 334507.0, 335222.0, 335399.0, 335472.0, 335836.0, 335981.0, 336450.0, 337039.0, 337172.0, 337940.0, 338266.0, 338567.0, 338886.0, 339061.0, 339239.0, 339363.0, 339499.0, 339516.0, 339704.0, 339715.0, 339873.0, 339940.0, 340526.0, 340869.0, 341846.0, 341962.0, 342030.0, 342307.0, 342470.0, 342541.0, 343104.0, 343314.0, 343501.0, 343554.0, 343610.0, 343648.0, 344274.0, 344728.0, 344833.0, 345125.0, 345185.0, 345744.0, 346115.0, 346628.0, 347730.0, 348044.0, 348194.0, 348312.0, 348654.0, 348733.0, 348743.0, 348828.0, 348920.0, 348996.0, 349043.0, 349264.0, 349430.0, 349548.0, 349779.0, 349796.0, 349865.0, 349982.0, 350273.0, 350799.0, 350879.0, 351116.0, 351167.0, 351337.0, 351399.0, 351687.0, 351692.0, 351750.0, 351823.0, 351874.0, 351968.0, 352028.0, 352064.0, 352112.0, 352134.0, 352136.0, 352266.0, 352476.0, 352494.0, 352747.0, 352783.0, 352993.0, 353109.0, 353171.0, 353182.0, 353201.0, 353251.0, 353271.0, 353310.0, 353354.0, 353615.0, 354128.0, 354227.0, 354613.0, 354976.0, 355099.0, 355440.0, 355528.0, 355529.0, 355533.0, 355613.0, 355623.0, 355662.0, 355685.0, 355779.0, 355871.0, 355982.0, 356139.0, 356150.0, 356369.0, 356517.0, 356669.0, 356772.0, 356871.0, 356938.0, 357026.0, 357249.0, 357428.0, 357862.0, 357989.0, 358113.0, 358132.0, 358234.0, 358319.0, 358424.0, 358488.0, 358688.0, 358690.0, 358697.0, 358751.0, 358772.0, 358790.0, 358849.0, 358858.0, 358888.0, 359038.0, 359084.0, 359191.0, 359234.0, 359608.0, 359783.0, 359805.0, 359828.0, 359847.0, 360005.0, 360009.0, 360097.0, 360243.0, 360262.0, 360382.0, 360510.0, 360859.0, 361207.0, 361397.0, 361727.0, 361832.0, 361926.0, 362120.0, 362176.0, 362197.0, 362318.0, 362491.0, 362605.0, 362750.0, 362816.0, 362915.0, 362918.0, 363008.0, 363063.0, 363079.0, 363110.0, 363271.0, 363372.0, 363395.0, 363507.0, 363707.0, 363946.0, 364056.0, 364178.0, 364185.0, 364260.0, 364377.0, 364510.0, 364514.0, 364616.0, 364696.0, 364708.0, 364763.0, 364900.0, 365065.0, 365072.0, 365106.0, 365405.0, 365459.0, 365460.0, 365527.0, 365625.0, 365663.0, 365687.0, 365731.0, 365780.0, 365816.0, 365822.0, 366118.0, 366208.0, 366286.0, 366380.0, 366446.0, 366524.0, 366713.0, 366749.0, 367045.0, 367063.0, 367145.0, 367161.0, 367230.0, 367268.0, 367364.0, 367391.0, 367414.0, 367473.0, 367563.0, 367660.0, 367686.0, 367699.0, 367779.0, 367809.0, 367929.0, 368013.0, 368072.0, 368147.0, 368429.0, 368461.0, 368560.0, 368646.0, 368678.0, 368684.0, 368699.0, 368811.0, 368865.0, 368874.0, 368966.0, 368967.0, 369079.0, 369231.0, 369286.0, 369540.0, 369551.0, 369607.0, 369646.0, 369675.0, 369709.0, 369735.0, 369782.0, 369785.0, 369882.0, 369885.0, 369950.0, 369965.0, 369975.0, 370041.0, 370062.0, 370083.0, 370083.0, 370191.0, 370314.0, 370391.0, 370432.0, 370688.0, 370837.0, 370844.0, 370861.0, 370998.0, 371184.0, 371226.0, 371226.0, 371315.0, 371333.0, 371413.0, 371493.0, 371505.0, 371569.0, 371629.0, 371784.0, 371866.0, 371901.0, 371902.0, 372128.0, 372392.0, 372409.0, 372478.0, 372715.0, 372848.0, 372940.0, 373048.0, 373082.0, 373101.0, 373284.0, 373324.0, 373462.0, 373575.0, 373614.0, 373658.0, 373700.0, 373731.0, 373830.0, 373884.0, 373917.0, 373919.0, 373936.0, 374002.0, 374056.0, 374057.0, 374062.0, 374356.0, 374393.0, 374528.0, 374558.0, 374650.0, 374721.0, 374830.0, 374878.0, 375027.0, 375074.0, 375365.0, 375367.0, 375444.0, 375593.0, 375655.0, 375702.0, 375868.0, 375964.0, 376106.0, 376144.0, 376211.0, 376286.0, 376367.0, 376607.0, 376944.0, 377034.0, 377292.0, 377455.0, 377913.0, 378074.0, 378536.0, 378599.0, 378769.0, 379045.0, 379105.0, 379169.0, 379399.0, 379591.0, 379845.0, 379913.0, 380000.0, 380092.0, 380321.0, 380402.0, 380968.0, 381204.0, 381307.0, 381786.0, 400474.0, 401221.0, 406009.0, 408012.0, 409696.0, 410075.0, 410355.0, 410451.0, 410584.0, 410603.0, 411143.0, 411411.0, 411690.0, 412224.0, 412255.0, 412574.0, 412665.0, 412755.0, 413547.0, 413551.0, 414464.0, 414641.0, 415341.0, 415490.0, 415916.0, 416434.0, 416968.0, 417369.0, 417566.0, 417654.0, 417859.0, 417982.0, 418119.0, 418637.0, 418668.0, 418927.0, 419232.0, 419250.0, 419374.0, 419940.0, 420668.0, 420737.0, 420871.0, 420879.0, 420949.0, 421232.0, 421924.0, 422277.0, 422782.0, 423187.0, 423409.0, 423463.0, 424439.0, 424639.0, 424883.0, 424929.0, 424973.0, 425022.0, 425214.0, 425257.0, 425489.0, 425549.0, 425873.0, 425900.0, 426944.0, 427115.0, 427276.0, 427428.0, 427646.0, 427780.0, 428346.0, 428809.0, 428826.0, 429209.0, 429309.0, 429426.0, 429490.0, 429936.0, 430096.0, 430103.0, 430356.0, 430802.0, 430854.0, 430875.0, 431163.0, 431260.0, 431295.0, 431382.0, 431390.0, 431615.0, 431816.0, 431976.0, 432141.0, 432381.0, 432434.0, 432471.0, 432636.0, 432654.0, 432867.0, 433160.0, 433230.0, 433460.0, 433538.0, 433572.0, 433602.0, 433618.0, 433792.0, 433805.0, 433884.0, 433886.0, 434250.0, 434266.0, 434292.0, 434379.0, 434410.0, 434442.0, 434701.0, 434985.0, 435007.0, 435044.0, 435094.0, 435162.0, 435167.0, 435506.0, 435564.0, 435724.0, 435868.0, 435879.0, 436000.0, 436026.0, 436050.0, 436166.0, 436224.0, 436229.0, 436285.0, 436333.0, 436351.0, 436426.0, 436458.0, 436485.0, 436517.0, 436810.0, 436889.0, 436995.0, 437002.0, 437157.0, 437396.0, 437397.0, 437475.0, 437499.0, 437507.0, 437728.0, 437792.0, 437813.0, 437881.0, 437929.0, 437978.0, 438026.0, 438085.0, 438101.0, 438235.0, 438249.0, 438265.0, 438379.0, 438528.0, 438586.0, 438689.0, 438736.0, 438786.0, 438806.0, 438838.0, 438839.0, 438843.0, 438853.0, 438865.0, 438950.0, 439237.0, 439248.0, 439296.0, 439342.0, 439395.0, 439487.0, 439502.0, 439587.0, 439596.0, 439663.0, 439696.0, 439750.0, 439987.0, 440049.0, 440083.0, 440279.0, 440295.0, 440333.0, 440340.0, 440371.0, 440573.0, 440633.0, 440679.0, 440682.0, 440741.0, 440748.0, 440952.0, 440986.0, 441007.0, 441034.0, 441088.0, 441152.0, 441163.0, 441200.0, 441282.0, 441475.0, 441494.0, 441599.0, 441813.0, 441844.0, 441850.0, 441869.0, 441931.0, 441934.0, 441940.0, 442121.0, 442189.0, 442203.0, 442237.0, 442337.0, 442352.0, 442370.0, 442428.0, 442503.0, 442581.0, 442593.0, 442662.0, 442821.0, 442832.0, 442945.0, 442962.0, 442980.0, 443056.0, 443073.0, 443094.0, 443116.0, 443135.0, 443166.0, 443259.0, 443327.0, 443418.0, 443478.0, 443483.0, 443542.0, 443608.0, 443668.0, 443671.0, 443691.0, 443778.0, 443864.0, 443864.0, 443975.0, 443998.0, 444070.0, 444095.0, 444175.0, 444220.0, 444261.0, 444269.0, 444321.0, 444406.0, 444540.0, 444558.0, 444674.0, 444750.0, 444765.0, 444905.0, 444986.0, 445020.0, 445067.0, 445271.0, 445322.0, 445336.0, 445341.0, 445637.0, 445744.0, 445803.0, 445812.0, 445812.0, 445867.0, 445895.0, 445981.0, 446004.0, 446062.0, 446073.0, 446101.0, 446118.0, 446193.0, 446201.0, 446287.0, 446313.0, 446335.0, 446443.0, 446511.0, 446603.0, 446660.0, 446865.0, 446910.0, 447006.0, 447015.0, 447189.0, 447246.0, 447293.0, 447342.0, 447386.0, 447389.0, 447407.0, 447431.0, 447478.0, 447482.0, 447494.0, 447543.0, 447563.0, 447568.0, 447572.0, 447621.0, 447645.0, 447756.0, 447899.0, 447972.0, 448047.0, 448094.0, 448123.0, 448126.0, 448176.0, 448182.0, 448212.0, 448290.0, 448332.0, 448336.0, 448422.0, 448459.0, 448476.0, 448480.0, 448559.0, 448563.0, 448570.0, 448682.0, 448709.0, 448744.0, 448773.0, 448814.0, 448922.0, 449202.0, 449329.0, 449370.0, 449525.0, 449543.0, 449616.0, 449622.0, 449750.0, 449776.0, 449782.0, 449953.0, 450138.0, 450256.0, 450389.0, 450439.0, 450476.0, 450622.0, 450664.0, 450667.0, 450689.0, 450816.0, 450864.0, 450970.0, 451113.0, 451293.0, 451300.0, 451317.0, 451401.0, 451454.0, 451466.0, 451475.0, 451557.0, 451608.0, 451621.0, 451629.0, 451791.0, 451896.0, 451946.0, 452138.0, 452156.0, 452269.0, 452385.0, 452394.0, 452415.0, 452486.0, 452609.0, 452620.0, 452641.0, 452839.0, 452900.0, 452903.0, 453009.0, 453017.0, 453100.0, 453208.0, 453219.0, 453265.0, 453275.0, 453519.0, 453538.0, 453563.0, 453625.0, 453653.0, 453655.0, 453659.0, 453663.0, 453666.0, 453708.0, 453715.0, 453785.0, 453800.0, 453809.0, 453843.0, 453870.0, 453967.0, 453973.0, 454068.0, 454075.0, 454089.0, 454091.0, 454112.0, 454133.0, 454150.0, 454199.0, 454200.0, 454206.0, 454341.0, 454362.0, 454370.0, 454471.0, 454472.0, 454553.0, 454691.0, 454832.0, 454886.0, 455053.0, 455056.0, 455074.0, 455185.0, 455193.0, 455215.0, 455232.0, 455233.0, 455311.0, 455344.0, 455421.0, 455447.0, 455504.0, 455524.0, 455543.0, 455547.0, 455570.0, 455575.0, 455697.0, 455729.0, 455731.0, 455761.0, 455844.0, 456021.0, 456045.0, 456104.0, 456251.0, 456256.0, 456269.0, 456318.0, 456376.0, 456380.0, 456425.0, 456443.0, 456444.0, 456456.0, 456500.0, 456545.0, 456598.0, 456619.0, 456678.0, 456725.0, 456736.0, 456745.0, 456764.0, 456812.0, 456935.0, 456941.0, 456986.0, 457319.0, 457324.0, 457356.0, 457363.0, 457401.0, 457447.0, 457477.0, 457541.0, 457622.0, 457767.0, 457781.0, 457863.0, 457869.0, 457914.0, 457963.0, 458005.0, 458051.0, 458092.0, 458120.0, 458127.0, 458192.0, 458216.0, 458229.0, 458310.0, 458342.0, 458438.0, 458478.0, 458647.0, 458666.0, 458725.0, 458755.0, 458760.0, 458801.0, 458810.0, 458901.0, 458916.0, 458976.0, 459047.0, 459062.0, 459066.0, 459149.0, 459195.0, 459226.0, 459239.0, 459239.0, 459267.0, 459328.0, 459431.0, 459496.0, 459517.0, 459569.0, 459580.0, 459588.0, 459610.0, 459733.0, 459813.0, 459827.0, 459854.0, 459908.0, 460288.0, 460321.0, 460336.0, 460359.0, 460367.0, 460443.0, 460451.0, 460514.0, 460542.0, 460647.0, 460671.0, 460702.0, 460703.0, 460735.0, 460738.0, 460768.0, 460812.0, 460866.0, 460905.0, 460997.0, 461029.0, 461040.0, 461041.0, 461066.0, 461134.0, 461152.0, 461215.0, 461237.0, 461243.0, 461257.0, 461449.0, 461618.0, 461653.0, 461737.0, 461737.0, 461812.0, 461820.0, 461832.0, 461989.0, 461997.0, 462105.0, 462148.0, 462188.0, 462208.0, 462259.0, 462296.0, 462407.0, 462412.0, 462416.0, 462444.0, 462499.0, 462851.0, 462864.0, 462966.0, 463104.0, 463113.0, 463176.0, 463235.0, 463265.0, 463331.0, 463436.0, 463466.0, 463513.0, 463513.0, 463591.0, 463735.0, 463780.0, 463794.0, 463855.0, 464000.0, 464232.0, 464565.0, 464606.0, 464941.0, 465013.0, 465084.0, 465661.0, 465704.0, 465844.0, 465943.0, 465992.0, 466605.0, 466734.0, 467521.0, 467829.0, 468276.0, 469518.0, 469840.0, 472490.0, 488445.0, 491532.0, 491988.0, 492220.0, 492938.0, 492962.0, 493160.0, 494066.0, 494486.0, 496060.0, 496463.0, 496700.0, 497148.0, 497173.0, 497334.0, 497711.0, 497863.0, 497864.0, 498104.0, 498106.0, 499215.0, 499462.0, 499472.0, 499500.0, 499906.0, 500182.0, 500220.0, 500515.0, 500616.0, 501279.0, 501504.0, 501916.0, 502352.0, 502466.0, 502560.0, 502601.0, 502652.0, 502915.0, 503118.0, 503328.0, 503645.0, 503679.0, 503736.0, 503800.0, 504031.0, 504235.0, 504504.0, 504657.0, 505005.0, 505031.0, 505057.0, 505300.0, 505573.0, 505755.0, 506052.0, 506189.0, 506349.0, 506383.0, 506719.0, 506754.0, 506793.0, 506827.0, 507204.0, 507303.0, 507362.0, 507434.0, 507542.0, 507621.0, 507841.0, 507866.0, 508183.0, 508380.0, 508413.0, 508451.0, 508515.0, 508565.0, 508652.0, 508666.0, 508854.0, 509086.0, 509090.0, 509195.0, 509414.0, 509430.0, 509463.0, 509596.0, 510009.0, 510036.0, 510178.0, 510352.0, 510403.0, 510464.0, 510549.0, 510558.0, 510633.0, 510756.0, 510772.0, 510821.0, 510838.0, 510848.0, 510857.0, 511078.0, 511225.0, 511260.0, 511561.0, 511667.0, 511823.0, 512007.0, 512137.0, 512201.0, 512219.0, 512290.0, 512420.0, 512593.0, 512636.0, 512779.0, 512928.0, 513004.0, 513008.0, 513088.0, 513170.0, 513258.0, 513296.0, 513336.0, 513346.0, 513455.0, 513719.0, 513741.0, 513763.0, 513861.0, 514186.0, 514215.0, 514316.0, 514349.0, 514416.0, 514421.0, 514446.0, 514470.0, 514547.0, 514594.0, 514678.0, 515034.0, 515158.0, 515161.0, 515212.0, 515393.0, 515423.0, 515429.0, 515516.0, 515599.0, 515675.0, 515826.0, 515849.0, 516189.0, 516253.0, 516501.0, 516519.0, 516529.0, 516635.0, 516782.0, 516800.0, 516854.0, 516907.0, 516951.0, 517025.0, 517074.0, 517128.0, 517152.0, 517235.0, 517284.0, 517332.0, 517348.0, 517635.0, 517788.0, 517852.0, 517858.0, 517882.0, 518007.0, 518055.0, 518155.0, 518223.0, 518224.0, 518235.0, 518252.0, 518478.0, 518497.0, 518524.0, 518608.0, 518641.0, 518774.0, 518794.0, 518815.0, 519001.0, 519033.0, 519039.0, 519068.0, 519075.0, 519089.0, 519104.0, 519198.0, 519211.0, 519236.0, 519345.0, 519356.0, 519356.0, 519364.0, 519379.0, 519432.0, 519472.0, 519491.0, 519497.0, 519530.0, 519539.0, 519566.0, 519603.0, 519743.0, 519771.0, 519820.0, 519881.0, 520028.0, 520218.0, 520254.0, 520254.0, 520265.0, 520283.0, 520315.0, 520322.0, 520358.0, 520382.0, 520392.0, 520432.0, 520519.0, 520534.0, 520579.0, 520611.0, 520695.0, 520739.0, 520806.0, 520891.0, 520901.0, 520922.0, 520975.0, 520984.0, 521060.0, 521092.0, 521115.0, 521139.0, 521157.0, 521175.0, 521324.0, 521325.0, 521342.0, 521345.0, 521361.0, 521439.0, 521584.0, 521614.0, 521634.0, 521659.0, 521763.0, 521764.0, 521806.0, 521861.0, 521873.0, 521880.0, 521903.0, 521954.0, 522007.0, 522026.0, 522037.0, 522060.0, 522094.0, 522113.0, 522123.0, 522170.0, 522209.0, 522310.0, 522321.0, 522414.0, 522465.0, 522560.0, 522644.0, 522658.0, 522665.0, 522679.0, 522689.0, 522693.0, 522706.0, 522709.0, 522718.0, 522827.0, 522851.0, 522857.0, 522922.0, 522960.0, 523013.0, 523016.0, 523049.0, 523053.0, 523067.0, 523075.0, 523099.0, 523130.0, 523150.0, 523215.0, 523224.0, 523238.0, 523252.0, 523271.0, 523337.0, 523366.0, 523386.0, 523403.0, 523426.0, 523609.0, 523673.0, 523675.0, 523682.0, 523720.0, 523743.0, 523809.0, 523843.0, 523858.0, 523861.0, 523874.0, 523878.0, 523888.0, 523891.0, 523922.0, 523930.0, 523936.0, 523937.0, 523943.0, 523981.0, 524014.0, 524019.0, 524042.0, 524079.0, 524156.0, 524203.0, 524205.0, 524214.0, 524268.0, 524291.0, 524292.0, 524312.0, 524333.0, 524337.0, 524349.0, 524361.0, 524363.0, 524400.0, 524417.0, 524438.0, 524446.0, 524481.0, 524515.0, 524531.0, 524584.0, 524585.0, 524589.0, 524589.0, 524638.0, 524648.0, 524669.0, 524669.0, 524678.0, 524687.0, 524697.0, 524753.0, 524795.0, 524810.0, 524828.0, 524838.0, 524873.0, 524886.0, 524896.0, 524934.0, 524958.0, 524967.0, 525053.0, 525063.0, 525084.0, 525116.0, 525130.0, 525197.0, 525200.0, 525223.0, 525236.0, 525269.0, 525319.0, 525414.0, 525462.0, 525462.0, 525462.0, 525499.0, 525507.0, 525511.0, 525530.0, 525589.0, 525590.0, 525782.0, 525880.0, 525898.0, 525968.0, 525970.0, 525985.0, 526008.0, 526036.0, 526068.0, 526097.0, 526101.0, 526139.0, 526139.0, 526150.0, 526166.0, 526215.0, 526220.0, 526264.0, 526318.0, 526330.0, 526347.0, 526356.0, 526365.0, 526365.0, 526365.0, 526410.0, 526434.0, 526452.0, 526458.0, 526465.0, 526502.0, 526520.0, 526526.0, 526535.0, 526543.0, 526547.0, 526560.0, 526561.0, 526570.0, 526591.0, 526610.0, 526661.0, 526672.0, 526692.0, 526703.0, 526712.0, 526738.0, 526825.0, 526880.0, 526890.0, 526890.0, 526938.0, 527011.0, 527024.0, 527041.0, 527074.0, 527110.0, 527119.0, 527141.0, 527148.0, 527177.0, 527226.0, 527244.0, 527252.0, 527319.0, 527320.0, 527338.0, 527342.0, 527377.0, 527388.0, 527428.0, 527441.0, 527472.0, 527474.0, 527547.0, 527592.0, 527623.0, 527639.0, 527642.0, 527650.0, 527724.0, 527734.0, 527742.0, 527777.0, 527808.0, 527816.0, 527817.0, 527899.0, 527948.0, 527974.0, 527986.0, 528004.0, 528017.0, 528029.0, 528048.0, 528053.0, 528073.0, 528091.0, 528118.0, 528139.0, 528188.0, 528208.0, 528209.0, 528229.0, 528240.0, 528296.0, 528349.0, 528388.0, 528394.0, 528438.0, 528447.0, 528492.0, 528513.0, 528538.0, 528560.0, 528589.0, 528622.0, 528650.0, 528657.0, 528689.0, 528702.0, 528721.0, 528735.0, 528735.0, 528738.0, 528747.0, 528754.0, 528788.0, 528789.0, 528791.0, 528793.0, 528807.0, 528861.0, 528870.0, 528953.0, 528984.0, 528988.0, 529025.0, 529038.0, 529069.0, 529089.0, 529094.0, 529096.0, 529112.0, 529119.0, 529159.0, 529188.0, 529198.0, 529199.0, 529204.0, 529205.0, 529230.0, 529261.0, 529334.0, 529335.0, 529365.0, 529371.0, 529376.0, 529396.0, 529401.0, 529405.0, 529447.0, 529492.0, 529499.0, 529516.0, 529526.0, 529529.0, 529534.0, 529591.0, 529592.0, 529604.0, 529611.0, 529625.0, 529653.0, 529671.0, 529674.0, 529708.0, 529730.0, 529756.0, 529761.0, 529762.0, 529812.0, 529827.0, 529829.0, 529916.0, 529935.0, 529937.0, 529956.0, 529959.0, 529995.0, 529996.0, 530029.0, 530095.0, 530099.0, 530126.0, 530128.0, 530152.0, 530169.0, 530187.0, 530226.0, 530329.0, 530340.0, 530344.0, 530390.0, 530425.0, 530431.0, 530454.0, 530532.0, 530552.0, 530601.0, 530635.0, 530660.0, 530701.0, 530737.0, 530787.0, 530797.0, 530809.0, 530809.0, 530814.0, 530834.0, 530875.0, 530884.0, 530884.0, 530914.0, 530962.0, 530971.0, 530971.0, 530992.0, 531009.0, 531011.0, 531075.0, 531097.0, 531130.0, 531137.0, 531161.0, 531164.0, 531189.0, 531206.0, 531215.0, 531218.0, 531267.0, 531281.0, 531284.0, 531290.0, 531303.0, 531318.0, 531324.0, 531333.0, 531346.0, 531363.0, 531394.0, 531396.0, 531402.0, 531428.0, 531429.0, 531494.0, 531524.0, 531526.0, 531564.0, 531576.0, 531594.0, 531678.0, 531700.0, 531729.0, 531754.0, 531801.0, 531812.0, 531838.0, 531854.0, 531891.0, 531895.0, 532056.0, 532085.0, 532126.0, 532134.0, 532158.0, 532170.0, 532173.0, 532181.0, 532183.0, 532189.0, 532200.0, 532214.0, 532229.0, 532231.0, 532232.0, 532305.0, 532386.0, 532386.0, 532392.0, 532395.0, 532409.0, 532411.0, 532425.0, 532429.0, 532432.0, 532439.0, 532439.0, 532452.0, 532464.0, 532470.0, 532473.0, 532479.0, 532492.0, 532530.0, 532609.0, 532618.0, 532627.0, 532632.0, 532635.0, 532707.0, 532715.0, 532727.0, 532795.0, 532825.0, 532838.0, 532889.0, 532912.0, 532923.0, 532935.0, 532950.0, 532961.0, 533001.0, 533008.0, 533021.0, 533049.0, 533089.0, 533091.0, 533106.0, 533117.0, 533123.0, 533144.0, 533181.0, 533230.0, 533357.0, 533368.0, 533376.0, 533432.0, 533447.0, 533472.0, 533490.0, 533501.0, 533578.0, 533597.0, 533602.0, 533603.0, 533619.0, 533629.0, 533631.0, 533635.0, 533647.0, 533659.0, 533672.0, 533676.0, 533689.0, 533699.0, 533727.0, 533748.0, 533748.0, 533760.0, 533790.0, 533797.0, 533841.0, 533856.0, 533873.0, 533873.0, 533908.0, 533941.0, 533963.0, 533964.0, 533972.0, 534016.0, 534027.0, 534037.0, 534046.0, 534096.0, 534110.0, 534114.0, 534179.0, 534183.0, 534191.0, 534259.0, 534272.0, 534304.0, 534317.0, 534351.0, 534357.0, 534391.0, 534393.0, 534399.0, 534405.0, 534440.0, 534464.0, 534481.0, 534489.0, 534493.0, 534550.0, 534608.0, 534630.0, 534686.0, 534707.0, 534716.0, 534743.0, 534784.0, 534818.0, 534862.0, 534878.0, 534888.0, 534926.0, 534936.0, 534939.0, 534998.0, 535029.0, 535034.0, 535092.0, 535117.0, 535125.0, 535126.0, 535148.0, 535249.0, 535257.0, 535282.0, 535289.0, 535300.0, 535319.0, 535323.0, 535359.0, 535409.0, 535415.0, 535427.0, 535469.0, 535470.0, 535506.0, 535524.0, 535570.0, 535577.0, 535578.0, 535583.0, 535642.0, 535651.0, 535673.0, 535692.0, 535701.0, 535718.0, 535836.0, 535854.0, 535858.0, 535888.0, 535896.0, 535907.0, 535933.0, 536006.0, 536032.0, 536043.0, 536073.0, 536127.0, 536173.0, 536181.0, 536250.0, 536265.0, 536300.0, 536350.0, 536383.0, 536392.0, 536398.0, 536399.0, 536443.0, 536493.0, 536552.0, 536589.0, 536593.0, 536632.0, 536711.0, 536724.0, 536762.0, 536795.0, 536900.0, 536972.0, 536977.0, 536978.0, 537010.0, 537088.0, 537132.0, 537181.0, 537346.0, 537405.0, 537472.0, 537483.0, 537493.0, 537504.0, 537515.0, 537515.0, 537549.0, 537559.0, 537749.0, 537750.0, 537774.0, 537775.0, 537796.0, 537843.0, 537884.0, 537896.0, 537926.0, 537933.0, 537972.0, 537989.0, 538011.0, 538034.0, 538160.0, 538187.0, 538302.0, 538367.0, 538392.0, 538412.0, 538422.0, 538427.0, 538435.0, 538457.0, 538493.0, 538523.0, 538559.0, 538565.0, 538576.0, 538621.0, 538638.0, 538676.0, 538700.0, 538709.0, 538722.0, 538742.0, 538785.0, 538797.0, 538818.0, 538819.0, 538833.0, 538843.0, 538856.0, 538862.0, 538930.0, 538949.0, 539022.0, 539032.0, 539033.0, 539035.0, 539041.0, 539052.0, 539072.0, 539073.0, 539075.0, 539077.0, 539081.0, 539082.0, 539092.0, 539102.0, 539105.0, 539119.0, 539176.0, 539289.0, 539320.0, 539321.0, 539324.0, 539324.0, 539355.0, 539372.0, 539386.0, 539404.0, 539431.0, 539468.0, 539474.0, 539482.0, 539497.0, 539501.0, 539502.0, 539538.0, 539569.0, 539576.0, 539576.0, 539588.0, 539623.0, 539645.0, 539662.0, 539697.0, 539717.0, 539736.0, 539747.0, 539780.0, 539792.0, 539851.0, 539881.0, 539955.0, 539963.0, 539969.0, 540020.0, 540022.0, 540036.0, 540067.0, 540094.0, 540135.0, 540146.0, 540181.0, 540186.0, 540191.0, 540284.0, 540291.0, 540301.0, 540338.0, 540364.0, 540381.0, 540398.0, 540400.0, 540411.0, 540435.0, 540464.0, 540525.0, 540534.0, 540542.0, 540565.0, 540602.0, 540627.0, 540627.0, 540693.0, 540710.0, 540713.0, 540811.0, 540830.0, 540839.0, 540855.0, 540876.0, 540885.0, 540907.0, 540936.0, 540956.0, 540959.0, 540976.0, 540982.0, 541017.0, 541035.0, 541038.0, 541046.0, 541050.0, 541056.0, 541105.0, 541159.0, 541204.0, 541219.0, 541287.0, 541295.0, 541305.0, 541348.0, 541355.0, 541360.0, 541406.0, 541431.0, 541433.0, 541438.0, 541441.0, 541461.0, 541480.0, 541490.0, 541518.0, 541548.0, 541571.0, 541574.0, 541581.0, 541582.0, 541588.0, 541622.0, 541641.0, 541642.0, 541650.0, 541655.0, 541669.0, 541721.0, 541743.0, 541776.0, 541792.0, 541811.0, 541832.0, 541867.0, 541907.0, 541920.0, 541938.0, 541955.0, 542006.0, 542020.0, 542023.0, 542059.0, 542120.0, 542131.0, 542147.0, 542148.0, 542186.0, 542227.0, 542244.0, 542276.0, 542355.0, 542377.0, 542390.0, 542441.0, 542451.0, 542464.0, 542511.0, 542522.0, 542595.0, 542645.0, 542656.0, 542688.0, 542694.0, 542724.0, 542750.0, 542764.0, 542833.0, 542861.0, 542897.0, 542910.0, 542916.0, 542927.0, 542946.0, 542979.0, 542987.0, 542990.0, 543018.0, 543044.0, 543071.0, 543076.0, 543101.0, 543112.0, 543139.0, 543170.0, 543199.0, 543225.0, 543242.0, 543249.0, 543265.0, 543275.0, 543297.0, 543315.0, 543318.0, 543334.0, 543362.0, 543381.0, 543412.0, 543441.0, 543482.0, 543494.0, 543507.0, 543514.0, 543528.0, 543537.0, 543540.0, 543554.0, 543570.0, 543578.0, 543593.0, 543626.0, 543659.0, 543714.0, 543719.0, 543720.0, 543737.0, 543744.0, 543753.0, 543761.0, 543770.0, 543791.0, 543795.0, 543797.0, 543799.0, 543818.0, 543821.0, 543893.0, 543924.0, 543931.0, 543943.0, 543958.0, 543973.0, 544070.0, 544095.0, 544101.0, 544121.0, 544128.0, 544130.0, 544134.0, 544159.0, 544183.0, 544192.0, 544192.0, 544220.0, 544221.0, 544223.0, 544231.0, 544296.0, 544310.0, 544338.0, 544358.0, 544360.0, 544437.0, 544445.0, 544468.0, 544481.0, 544483.0, 544497.0, 544524.0, 544566.0, 544600.0, 544613.0, 544623.0, 544638.0, 544638.0, 544648.0, 544672.0, 544705.0, 544722.0, 544723.0, 544728.0, 544740.0, 544770.0, 544774.0, 544777.0, 544794.0, 544807.0, 544827.0, 544865.0, 544866.0, 544868.0, 544878.0, 544894.0, 544949.0, 544961.0, 544966.0, 544998.0, 545039.0, 545051.0, 545056.0, 545064.0, 545081.0, 545088.0, 545094.0, 545098.0, 545102.0, 545112.0, 545147.0, 545166.0, 545177.0, 545190.0, 545191.0, 545200.0, 545212.0, 545220.0, 545251.0, 545254.0, 545268.0, 545268.0, 545275.0, 545289.0, 545294.0, 545319.0, 545326.0, 545340.0, 545340.0, 545343.0, 545359.0, 545378.0, 545395.0, 545413.0, 545453.0, 545484.0, 545521.0, 545528.0, 545538.0, 545556.0, 545577.0, 545577.0, 545609.0, 545614.0, 545642.0, 545643.0, 545645.0, 545659.0, 545672.0, 545697.0, 545727.0, 545757.0, 545763.0, 545781.0, 545782.0, 545813.0, 545838.0, 545860.0, 545877.0, 545885.0, 545909.0, 545929.0, 545930.0, 545940.0, 545961.0, 545988.0, 546036.0, 546038.0, 546067.0, 546069.0, 546183.0, 546214.0, 546224.0, 546254.0, 546314.0, 546316.0, 546324.0, 546334.0, 546352.0, 546398.0, 546399.0, 546433.0, 546459.0, 546460.0, 546516.0, 546528.0, 546540.0, 546597.0, 546610.0, 546643.0, 546697.0, 546730.0, 546734.0, 546744.0, 546752.0, 546768.0, 546784.0, 546791.0, 546807.0, 546820.0, 546834.0, 546898.0, 546949.0, 546953.0, 546985.0, 546995.0, 546996.0, 547002.0, 547004.0, 547004.0, 547018.0, 547033.0, 547067.0, 547071.0, 547084.0, 547090.0, 547122.0, 547122.0, 547142.0, 547147.0, 547147.0, 547199.0, 547200.0, 547201.0, 547221.0, 547227.0, 547235.0, 547251.0, 547256.0, 547258.0, 547259.0, 547263.0, 547280.0, 547316.0, 547319.0, 547337.0, 547340.0, 547358.0, 547359.0, 547421.0, 547446.0, 547448.0, 547479.0, 547576.0, 547595.0, 547598.0, 547614.0, 547673.0, 547698.0, 547771.0, 547772.0, 547790.0, 547798.0, 547833.0, 547842.0, 547903.0, 547908.0, 547909.0, 548015.0, 548030.0, 548071.0, 548076.0, 548095.0, 548137.0, 548145.0, 548160.0, 548160.0, 548260.0, 548351.0, 548385.0, 548425.0, 548431.0, 548461.0, 548512.0, 548514.0, 548560.0, 548570.0, 548606.0, 548610.0, 548616.0, 548617.0, 548697.0, 548764.0, 548793.0, 548827.0, 548827.0, 548881.0, 548901.0, 548908.0, 548910.0, 548914.0, 548924.0, 548935.0, 549011.0, 549041.0, 549139.0, 549168.0, 549186.0, 549187.0, 549190.0, 549194.0, 549248.0, 549373.0, 549500.0, 549509.0, 549521.0, 549613.0, 549635.0, 549659.0, 549716.0, 549774.0, 549836.0, 549867.0, 549868.0, 549912.0, 549945.0, 549985.0, 550042.0, 550085.0, 550099.0, 550113.0, 550145.0, 550148.0, 550186.0, 550366.0, 550591.0, 550640.0, 550658.0, 550675.0, 550698.0, 550751.0, 550885.0, 550909.0, 550975.0, 551047.0, 551138.0, 551291.0, 551321.0, 551344.0, 551365.0, 551381.0, 551483.0, 551499.0, 551569.0, 551617.0, 552087.0, 552401.0, 552412.0, 552632.0, 552663.0, 552775.0, 552828.0, 553135.0, 553313.0, 553537.0, 553682.0, 554004.0, 554630.0, 556929.0, 559579.0, 570619.0, 571997.0, 572970.0, 577169.0, 577814.0, 578721.0, 579676.0, 580338.0, 580552.0, 580559.0, 581044.0, 581074.0, 582156.0, 582297.0, 582627.0, 582934.0, 583061.0, 583641.0, 584109.0, 584375.0, 584499.0, 584525.0, 584586.0, 584596.0, 584698.0, 584891.0, 585151.0, 585374.0, 585495.0, 585891.0, 585980.0, 586273.0, 586358.0, 586533.0, 587007.0, 587108.0, 587150.0, 587154.0, 587192.0, 587374.0, 587428.0, 587536.0, 587654.0, 587738.0, 588093.0, 588198.0, 588282.0, 588336.0, 588380.0, 588566.0, 588576.0, 588868.0, 588922.0, 588938.0, 589045.0, 589082.0, 589201.0, 589230.0, 589644.0, 589929.0, 589948.0, 590104.0, 590152.0, 590283.0, 590387.0, 590449.0, 590917.0, 590997.0, 591464.0, 591536.0, 591643.0, 591937.0, 591977.0, 592110.0, 592643.0, 592825.0, 592961.0, 593142.0, 593419.0, 593462.0, 593588.0, 593600.0, 593731.0, 593940.0, 593941.0, 594043.0, 594130.0, 595596.0, 595652.0, 595688.0, 595689.0, 595689.0, 595958.0, 596067.0, 596168.0, 596341.0, 596434.0, 596502.0, 596540.0, 596710.0, 596964.0, 597049.0, 597305.0, 597327.0, 597691.0, 597911.0, 597936.0, 598177.0, 598234.0, 598250.0, 598263.0, 598290.0, 598356.0, 598499.0, 598598.0, 598623.0, 598774.0, 598777.0, 598859.0, 599021.0, 599106.0, 599236.0, 599293.0, 599451.0, 599482.0, 599497.0, 599527.0, 599641.0, 599653.0, 599888.0, 600377.0, 600460.0, 600599.0, 600764.0, 600808.0, 600817.0, 600859.0, 601075.0, 601096.0, 601185.0, 601424.0, 601486.0, 601520.0, 601845.0, 601872.0, 602207.0, 602241.0, 602268.0, 602327.0, 602401.0, 602556.0, 602586.0, 602612.0, 602649.0, 602675.0, 602737.0, 602760.0, 602919.0, 602977.0, 603017.0, 603081.0, 603099.0, 603104.0, 603122.0, 603158.0, 603172.0, 603443.0, 603451.0, 603461.0, 603476.0, 603559.0, 603637.0, 603671.0, 603727.0, 603842.0, 603864.0, 603911.0, 603948.0, 603954.0, 603977.0, 604006.0, 604009.0, 604029.0, 604038.0, 604050.0, 604204.0, 604295.0, 604485.0, 604513.0, 604565.0, 604583.0, 604611.0, 604660.0, 604709.0, 604741.0, 604772.0, 604817.0, 604885.0, 604892.0, 604932.0, 604972.0, 604998.0, 605006.0, 605019.0, 605034.0, 605046.0, 605051.0, 605102.0, 605138.0, 605168.0, 605173.0, 605179.0, 605184.0, 605253.0, 605285.0, 605353.0, 605413.0, 605453.0, 605476.0, 605552.0, 605700.0, 605709.0, 605738.0, 605812.0, 605823.0, 605886.0, 605945.0, 605992.0, 606088.0, 606104.0, 606116.0, 606157.0, 606176.0, 606233.0, 606261.0, 606271.0, 606303.0, 606380.0, 606380.0, 606569.0, 606585.0, 606658.0, 606666.0, 606676.0, 606703.0, 606747.0, 606779.0, 606791.0, 606831.0, 606959.0, 606968.0, 606969.0, 606974.0, 606974.0, 607074.0, 607078.0, 607081.0, 607085.0, 607100.0, 607121.0, 607146.0, 607167.0, 607196.0, 607214.0, 607270.0, 607271.0, 607353.0, 607353.0, 607395.0, 607398.0, 607465.0, 607472.0, 607496.0, 607560.0, 607696.0, 607710.0, 607757.0, 607799.0, 607813.0, 607850.0, 607884.0, 607906.0, 607913.0, 607917.0, 607926.0, 607932.0, 607966.0, 608014.0, 608046.0, 608138.0, 608141.0, 608241.0, 608250.0, 608277.0, 608294.0, 608312.0, 608352.0, 608360.0, 608366.0, 608491.0, 608585.0, 608606.0, 608607.0, 608695.0, 608744.0, 608763.0, 608774.0, 608841.0, 608863.0, 608894.0, 608908.0, 608927.0, 609071.0, 609085.0, 609118.0, 609132.0, 609154.0, 609197.0, 609250.0, 609294.0, 609335.0, 609372.0, 609422.0, 609443.0, 609453.0, 609457.0, 609496.0, 609552.0, 609574.0, 609591.0, 609598.0, 609623.0, 609634.0, 609681.0, 609713.0, 609757.0, 609760.0, 609829.0, 609866.0, 609882.0, 609918.0, 609938.0, 609942.0, 609948.0, 609963.0, 610022.0, 610046.0, 610060.0, 610105.0, 610124.0, 610150.0, 610150.0, 610253.0, 610289.0, 610289.0, 610337.0, 610383.0, 610436.0, 610437.0, 610455.0, 610502.0, 610530.0, 610548.0, 610582.0, 610583.0, 610617.0, 610654.0, 610690.0, 610705.0, 610712.0, 610741.0, 610752.0, 610764.0, 610819.0, 610825.0, 610845.0, 610881.0, 610903.0, 610908.0, 610918.0, 610922.0, 611042.0, 611058.0, 611068.0, 611080.0, 611086.0, 611160.0, 611172.0, 611216.0, 611242.0, 611260.0, 611285.0, 611317.0, 611364.0, 611386.0, 611561.0, 611573.0, 611635.0, 611695.0, 611746.0, 611760.0, 611790.0, 611829.0, 611859.0, 611882.0, 611896.0, 611909.0, 611938.0, 611978.0, 612162.0, 612230.0, 612269.0, 612280.0, 612294.0, 612335.0, 612346.0, 612357.0, 612368.0, 612375.0, 612419.0, 612483.0, 612505.0, 612559.0, 612622.0, 612640.0, 612653.0, 612671.0, 612740.0, 612789.0, 612846.0, 612912.0, 612970.0, 612974.0, 612991.0, 613009.0, 613049.0, 613076.0, 613111.0, 613125.0, 613183.0, 613186.0, 613232.0, 613242.0, 613313.0, 613329.0, 613374.0, 613387.0, 613422.0, 613542.0, 613559.0, 613572.0, 613586.0, 613609.0, 613620.0, 613627.0, 613638.0, 613650.0, 613663.0, 613670.0, 613734.0, 613740.0, 613751.0, 613786.0, 613803.0, 613834.0, 613874.0, 613882.0, 613910.0, 613914.0, 613916.0, 613997.0, 613997.0, 614013.0, 614036.0, 614117.0, 614173.0, 614212.0, 614220.0, 614268.0, 614297.0, 614298.0, 614305.0, 614341.0, 614351.0, 614378.0, 614381.0, 614399.0, 614430.0, 614431.0, 614450.0, 614472.0, 614507.0, 614568.0, 614572.0, 614612.0, 614616.0, 614622.0, 614635.0, 614639.0, 614639.0, 614658.0, 614662.0, 614725.0, 614748.0, 614749.0, 614759.0, 614769.0, 614772.0, 614782.0, 614797.0, 614816.0, 614818.0, 614880.0, 614884.0, 614921.0, 614941.0, 614970.0, 614972.0, 615019.0, 615034.0, 615035.0, 615109.0, 615152.0, 615153.0, 615161.0, 615211.0, 615217.0, 615241.0, 615243.0, 615265.0, 615292.0, 615328.0, 615389.0, 615410.0, 615411.0, 615446.0, 615479.0, 615496.0, 615510.0, 615549.0, 615649.0, 615653.0, 615727.0, 615727.0, 615752.0, 615757.0, 615804.0, 615804.0, 615825.0, 615848.0, 615863.0, 615939.0, 615948.0, 615958.0, 615973.0, 615978.0, 615996.0, 616008.0, 616026.0, 616026.0, 616035.0, 616126.0, 616130.0, 616220.0, 616221.0, 616224.0, 616224.0, 616244.0, 616265.0, 616355.0, 616371.0, 616465.0, 616493.0, 616499.0, 616505.0, 616515.0, 616572.0, 616576.0, 616590.0, 616621.0, 616632.0, 616664.0, 616670.0, 616721.0, 616738.0, 616781.0, 616787.0, 616818.0, 616869.0, 616896.0, 616898.0, 616986.0, 616999.0, 617015.0, 617034.0, 617043.0, 617046.0, 617056.0, 617119.0, 617166.0, 617201.0, 617210.0, 617227.0, 617345.0, 617456.0, 617460.0, 617498.0, 617606.0, 617630.0, 617662.0, 617686.0, 617762.0, 617849.0, 617919.0, 617945.0, 617963.0, 617990.0, 618009.0, 618014.0, 618035.0, 618051.0, 618051.0, 618076.0, 618089.0, 618113.0, 618119.0, 618176.0, 618186.0, 618197.0, 618204.0, 618238.0, 618252.0, 618264.0, 618275.0, 618296.0, 618390.0, 618430.0, 618483.0, 618503.0, 618531.0, 618533.0, 618539.0, 618549.0, 618557.0, 618559.0, 618580.0, 618615.0, 618624.0, 618701.0, 618735.0, 618742.0, 618770.0, 618780.0, 618815.0, 618894.0, 618919.0, 618942.0, 618942.0, 618964.0, 619042.0, 619218.0, 619305.0, 619349.0, 619351.0, 619412.0, 619431.0, 619464.0, 619500.0, 619521.0, 619527.0, 619528.0, 619529.0, 619558.0, 619616.0, 619624.0, 619638.0, 619645.0, 619651.0, 619663.0, 619686.0, 619700.0, 619704.0, 619718.0, 619725.0, 619725.0, 619726.0, 619738.0, 619744.0, 619757.0, 619766.0, 619768.0, 619782.0, 619783.0, 619791.0, 619797.0, 619887.0, 619891.0, 619893.0, 619919.0, 619996.0, 620039.0, 620057.0, 620058.0, 620114.0, 620124.0, 620124.0, 620228.0, 620232.0, 620237.0, 620253.0, 620283.0, 620342.0, 620371.0, 620373.0, 620419.0, 620420.0, 620424.0, 620472.0, 620503.0, 620543.0, 620583.0, 620599.0, 620614.0, 620769.0, 620804.0, 621028.0, 621072.0, 621089.0, 621128.0, 621151.0, 621188.0, 621275.0, 621297.0, 621298.0, 621342.0, 621362.0, 621395.0, 621411.0, 621440.0, 621563.0, 621655.0, 621696.0, 621759.0, 621787.0, 621793.0, 621796.0, 621815.0, 621841.0, 621851.0, 621936.0, 622142.0, 622247.0, 622254.0, 622393.0, 622396.0, 622413.0, 622452.0, 622527.0, 622533.0, 622669.0, 622669.0, 622670.0, 622728.0, 622743.0, 622743.0, 622761.0, 622772.0, 622790.0, 622850.0, 623094.0, 623144.0, 623235.0, 623268.0, 623277.0, 623355.0, 623477.0, 623513.0, 623540.0, 623551.0, 623573.0, 623601.0, 623641.0, 623669.0, 623689.0, 623743.0, 623749.0, 623799.0, 623804.0, 624014.0, 624041.0, 624066.0, 624108.0, 624144.0, 624145.0, 624156.0, 624195.0, 624210.0, 624233.0, 624263.0, 624359.0, 624424.0, 624460.0, 624508.0, 624548.0, 624592.0, 624597.0, 624703.0, 624756.0, 624769.0, 624805.0, 624806.0, 624811.0, 624815.0, 624846.0, 624848.0, 624858.0, 624859.0, 624891.0, 624899.0, 624906.0, 624918.0, 624960.0, 625014.0, 625017.0, 625056.0, 625081.0, 625088.0, 625163.0, 625169.0, 625207.0, 625283.0, 625292.0, 625384.0, 625404.0, 625411.0, 625479.0, 625604.0, 625622.0, 625659.0, 625670.0, 625675.0, 625693.0, 625703.0, 625710.0, 625773.0, 625776.0, 625822.0, 625833.0, 625839.0, 625856.0, 625864.0, 625883.0, 625884.0, 625928.0, 625936.0, 625960.0, 625966.0, 625974.0, 625986.0, 625990.0, 626003.0, 626005.0, 626015.0, 626016.0, 626017.0, 626027.0, 626034.0, 626050.0, 626057.0, 626085.0, 626112.0, 626115.0, 626122.0, 626223.0, 626422.0, 626425.0, 626444.0, 626444.0, 626448.0, 626452.0, 626478.0, 626479.0, 626502.0, 626508.0, 626543.0, 626565.0, 626607.0, 626614.0, 626623.0, 626672.0, 626718.0, 626719.0, 626723.0, 626738.0, 626746.0, 626820.0, 626821.0, 626845.0, 626865.0, 626874.0, 626918.0, 626956.0, 626971.0, 626980.0, 627017.0, 627057.0, 627076.0, 627147.0, 627151.0, 627180.0, 627216.0, 627226.0, 627229.0, 627251.0, 627252.0, 627289.0, 627314.0, 627337.0, 627345.0, 627379.0, 627412.0, 627427.0, 627434.0, 627441.0, 627464.0, 627473.0, 627554.0, 627577.0, 627593.0, 627662.0, 627677.0, 627751.0, 627765.0, 627777.0, 627823.0, 627877.0, 627909.0, 628009.0, 628061.0, 628075.0, 628156.0, 628226.0, 628324.0, 628330.0, 628332.0, 628376.0, 628377.0, 628386.0, 628401.0, 628408.0, 628467.0, 628478.0, 628506.0, 628516.0, 628533.0, 628541.0, 628559.0, 628566.0, 628572.0, 628589.0, 628650.0, 628685.0, 628700.0, 628703.0, 628717.0, 628737.0, 628746.0, 628748.0, 628755.0, 628781.0, 628793.0, 628793.0, 628796.0, 628843.0, 628870.0, 628877.0, 628892.0, 628897.0, 628957.0, 628972.0, 629008.0, 629033.0, 629083.0, 629092.0, 629138.0, 629153.0, 629186.0, 629186.0, 629189.0, 629211.0, 629228.0, 629229.0, 629251.0, 629355.0, 629367.0, 629376.0, 629386.0, 629427.0, 629450.0, 629458.0, 629477.0, 629514.0, 629553.0, 629574.0, 629579.0, 629609.0, 629613.0, 629627.0, 629631.0, 629661.0, 629674.0, 629680.0, 629696.0, 629709.0, 629725.0, 629726.0, 629802.0, 629840.0, 629920.0, 630005.0, 630081.0, 630136.0, 630143.0, 630155.0, 630168.0, 630181.0, 630191.0, 630241.0, 630297.0, 630298.0, 630337.0, 630372.0, 630377.0, 630474.0, 630474.0, 630486.0, 630487.0, 630494.0, 630507.0, 630515.0, 630548.0, 630550.0, 630577.0, 630611.0, 630622.0, 630642.0, 630660.0, 630667.0, 630694.0, 630707.0, 630730.0, 630739.0, 630755.0, 630757.0, 630785.0, 630792.0, 630808.0, 630843.0, 630848.0, 630867.0, 630906.0, 631017.0, 631023.0, 631070.0, 631078.0, 631148.0, 631158.0, 631224.0, 631267.0, 631315.0, 631354.0, 631369.0, 631384.0, 631397.0, 631404.0, 631404.0, 631460.0, 631461.0, 631467.0, 631477.0, 631493.0, 631493.0, 631528.0, 631545.0, 631550.0, 631604.0, 631625.0, 631780.0, 631787.0, 631791.0, 631809.0, 631821.0, 631843.0, 631866.0, 631872.0, 631877.0, 631896.0, 631898.0, 631934.0, 631986.0, 632002.0, 632052.0, 632064.0, 632101.0, 632109.0, 632115.0, 632157.0, 632266.0, 632270.0, 632273.0, 632286.0, 632333.0, 632371.0, 632383.0, 632455.0, 632470.0, 632473.0, 632483.0, 632516.0, 632517.0, 632539.0, 632542.0, 632552.0, 632556.0, 632572.0, 632578.0, 632595.0, 632598.0, 632607.0, 632652.0, 632692.0, 632708.0, 632717.0, 632782.0, 632834.0, 632848.0, 632850.0, 632865.0, 632881.0, 632918.0, 632974.0, 632995.0, 633018.0, 633019.0, 633045.0, 633082.0, 633089.0, 633117.0, 633134.0, 633220.0, 633249.0, 633270.0, 633334.0, 633340.0, 633348.0, 633364.0, 633401.0, 633430.0, 633510.0, 633510.0, 633518.0, 633519.0, 633548.0, 633599.0, 633600.0, 633652.0, 633710.0, 633761.0, 633792.0, 633809.0, 633817.0, 633823.0, 633840.0, 633844.0, 633844.0, 633854.0, 633880.0, 633880.0, 633893.0, 633897.0, 633900.0, 633924.0, 633942.0, 633946.0, 633981.0, 634051.0, 634065.0, 634082.0, 634096.0, 634118.0, 634162.0, 634219.0, 634232.0, 634269.0, 634272.0, 634280.0, 634295.0, 634300.0, 634308.0, 634411.0, 634436.0, 634465.0, 634485.0, 634487.0, 634519.0, 634565.0, 634619.0, 634654.0, 634676.0, 634686.0, 634691.0, 634708.0, 634713.0, 634726.0, 634735.0, 634753.0, 634770.0, 634793.0, 634807.0, 634808.0, 634908.0, 634970.0, 635055.0, 635069.0, 635108.0, 635113.0, 635148.0, 635156.0, 635172.0, 635172.0, 635172.0, 635190.0, 635245.0, 635251.0, 635283.0, 635364.0, 635378.0, 635382.0, 635408.0, 635493.0, 635527.0, 635620.0, 635634.0, 635662.0, 635683.0, 635685.0, 635795.0, 635832.0, 635947.0, 635953.0, 635977.0, 636001.0, 636018.0, 636063.0, 636093.0, 636109.0, 636122.0, 636126.0, 636162.0, 636173.0, 636204.0, 636216.0, 636275.0, 636281.0, 636438.0, 636453.0, 636531.0, 636571.0, 636620.0, 636698.0, 636728.0, 636737.0, 636946.0, 636974.0, 637057.0, 637111.0, 637123.0, 637351.0, 637360.0, 637504.0, 637521.0, 637588.0, 637688.0, 637764.0, 637827.0, 637906.0, 638192.0, 638298.0, 638386.0, 638576.0, 638583.0, 638766.0, 638827.0, 639275.0, 639860.0, 640180.0, 640263.0, 640308.0, 640722.0, 641006.0, 641271.0, 641677.0, 641722.0, 642498.0, 647646.0, 669476.0, 670416.0, 670788.0, 671394.0, 671891.0, 672032.0, 672092.0, 672316.0, 672373.0, 672395.0, 672396.0, 672941.0, 672945.0, 673031.0, 673060.0, 673084.0, 673224.0, 673690.0, 674358.0, 674740.0, 674916.0, 674950.0, 675343.0, 675522.0, 675696.0, 675927.0, 676017.0, 676084.0, 676406.0, 676607.0, 676856.0, 676908.0, 676990.0, 677087.0, 677151.0, 677187.0, 677418.0, 677473.0, 677590.0, 677647.0, 677760.0, 677854.0, 677879.0, 677906.0, 678056.0, 678522.0, 678591.0, 678657.0, 678876.0, 678917.0, 679014.0, 679259.0, 679281.0, 679316.0, 679586.0, 679717.0, 679883.0, 680101.0, 680488.0, 680527.0, 680933.0, 680993.0, 681332.0, 681485.0, 681518.0, 682198.0, 682229.0, 682336.0, 682344.0, 682567.0, 682737.0, 683588.0, 683791.0, 683851.0, 684093.0, 684264.0, 684447.0, 684475.0, 684940.0, 685119.0, 685246.0, 685285.0, 685291.0, 685315.0, 685541.0, 685589.0, 685668.0, 685687.0, 685776.0, 685904.0, 686210.0, 686218.0, 686462.0, 686466.0, 686768.0, 686848.0, 686960.0, 686965.0, 687086.0, 687141.0, 687185.0, 687246.0, 687290.0, 687335.0, 687516.0, 687535.0, 687678.0, 687715.0, 687878.0, 687905.0, 687973.0, 688132.0, 688153.0, 688190.0, 688221.0, 688241.0, 688375.0, 688495.0, 688650.0, 688983.0, 689158.0, 689349.0, 689528.0, 689672.0, 689969.0, 690076.0, 690163.0, 690208.0, 690267.0, 690320.0, 690344.0, 690419.0, 690553.0, 690558.0, 690630.0, 690641.0, 690662.0, 690703.0, 690732.0, 690781.0, 690784.0, 690875.0, 691113.0, 691181.0, 691263.0, 691345.0, 691408.0, 691665.0, 691837.0, 691862.0, 691985.0, 692189.0, 692200.0, 692256.0, 692292.0, 692344.0, 692511.0, 692604.0, 692653.0, 692676.0, 692749.0, 692822.0, 692832.0, 692851.0, 692978.0, 693108.0, 693129.0, 693150.0, 693182.0, 693291.0, 693305.0, 693393.0, 693425.0, 693489.0, 693521.0, 693638.0, 693712.0, 693836.0, 693845.0, 693861.0, 693919.0, 693944.0, 694024.0, 694102.0, 694104.0, 694200.0, 694350.0, 694369.0, 694432.0, 694469.0, 694476.0, 694494.0, 694508.0, 694577.0, 694585.0, 694644.0, 694722.0, 694735.0, 694754.0, 695126.0, 695238.0, 695242.0, 695450.0, 695564.0, 695586.0, 695652.0, 695721.0, 695777.0, 695907.0, 695957.0, 695973.0, 696019.0, 696022.0, 696037.0, 696066.0, 696082.0, 696135.0, 696514.0, 696596.0, 696642.0, 696653.0, 696668.0, 696687.0, 696742.0, 696800.0, 696805.0, 696861.0, 696879.0, 697035.0, 697042.0, 697086.0, 697092.0, 697147.0, 697173.0, 697181.0, 697194.0, 697197.0, 697240.0, 697367.0, 697369.0, 697509.0, 697563.0, 697609.0, 697610.0, 697654.0, 697678.0, 697746.0, 697772.0, 697895.0, 697936.0, 697965.0, 698227.0, 698306.0, 698321.0, 698341.0, 698403.0, 698419.0, 698475.0, 698506.0, 698593.0, 698652.0, 698784.0, 698800.0, 698812.0, 698846.0, 698983.0, 699192.0, 699306.0, 699326.0, 699411.0, 699527.0, 699671.0, 699727.0, 699756.0, 699761.0, 699830.0, 700085.0, 700187.0, 700265.0, 700278.0, 700298.0, 700419.0, 700459.0, 700529.0, 700535.0, 700536.0, 700559.0, 700562.0, 700626.0, 700714.0, 700805.0, 701008.0, 701012.0, 701119.0, 701125.0, 701151.0, 701166.0, 701215.0, 701283.0, 701296.0, 701345.0, 701418.0, 701422.0, 701542.0, 701681.0, 702136.0, 702209.0, 702354.0, 702482.0, 702565.0, 702806.0, 702989.0, 703020.0, 703047.0, 703162.0, 703391.0, 703414.0, 703481.0, 703588.0, 703628.0, 703733.0, 703763.0, 703770.0, 703857.0, 703862.0, 703887.0, 703915.0, 703968.0, 704121.0, 704143.0, 704219.0, 704563.0, 704651.0, 704719.0, 704724.0, 704956.0, 705135.0, 705170.0, 705355.0, 705564.0, 705584.0, 705610.0, 705640.0, 705667.0, 705714.0, 705719.0, 705742.0, 705801.0, 705854.0, 705931.0, 706040.0, 706049.0, 706095.0, 706141.0, 706199.0, 706255.0, 706285.0, 706437.0, 706508.0, 706610.0, 706621.0, 706692.0, 706711.0, 706724.0, 706765.0, 706922.0, 706953.0, 707075.0, 707118.0, 707144.0, 707153.0, 707327.0, 707423.0, 707799.0, 707855.0, 707989.0, 708005.0, 708032.0, 708648.0, 708695.0, 708782.0, 709081.0, 709375.0, 709416.0, 709525.0, 709636.0, 709738.0, 709762.0, 709986.0, 710133.0, 710186.0, 710218.0, 710434.0, 710741.0, 710800.0, 710824.0, 710943.0, 711097.0, 711169.0, 711173.0, 711189.0, 711213.0, 711257.0, 711309.0, 711352.0, 711395.0, 711432.0, 711436.0, 711544.0, 712028.0, 712280.0, 712290.0, 712364.0, 712381.0, 712390.0, 712488.0, 712489.0, 712590.0, 712751.0, 712828.0, 712857.0, 712862.0, 712884.0, 712908.0, 712979.0, 712989.0, 712992.0, 713022.0, 713035.0, 713175.0, 713205.0, 713356.0, 713437.0, 713462.0, 713496.0, 713513.0, 713543.0, 713601.0, 713643.0, 713723.0, 713846.0, 714047.0, 714070.0, 714127.0, 714270.0, 714282.0, 714345.0, 714352.0, 714385.0, 714392.0, 714579.0, 714595.0, 714716.0, 714742.0, 714765.0, 714850.0, 714859.0, 714892.0, 714931.0, 715013.0, 715124.0, 715225.0, 715257.0, 715259.0, 715304.0, 715348.0, 715356.0, 715450.0, 715589.0, 715679.0, 715767.0, 715903.0, 715982.0, 716178.0, 716207.0, 716283.0, 716347.0, 716356.0, 716435.0, 716470.0, 716471.0, 716481.0, 716495.0, 716684.0, 716755.0, 716821.0, 716897.0, 716899.0, 716926.0, 716936.0, 717034.0, 717047.0, 717049.0, 717144.0, 717311.0, 717381.0, 717461.0, 717626.0, 717677.0, 717750.0, 717799.0, 717811.0, 717915.0, 718294.0, 718345.0, 718371.0, 718383.0, 718644.0, 718779.0, 718889.0, 718902.0, 719077.0, 719477.0, 719530.0, 719565.0, 719578.0, 719599.0, 719611.0, 719700.0, 719762.0, 719765.0, 719769.0, 719905.0, 719933.0, 720100.0, 720113.0, 720139.0, 720196.0, 720226.0, 720255.0, 720360.0, 720363.0, 720386.0, 720538.0, 720692.0, 720800.0, 720906.0, 720949.0, 720997.0, 721173.0, 721260.0, 721282.0, 721289.0, 721365.0, 721498.0, 721622.0, 721662.0, 721709.0, 721883.0, 721918.0, 722345.0, 722406.0, 722424.0, 722459.0, 722523.0, 722564.0, 722634.0, 722653.0, 722664.0, 722766.0, 723135.0, 723317.0, 723361.0, 723534.0, 723581.0, 723880.0, 724188.0, 724372.0, 724462.0, 724980.0, 726159.0, 726565.0, 751942.0, 752508.0, 752531.0, 754317.0, 754748.0, 756428.0, 758153.0, 759006.0, 759021.0, 759240.0, 759252.0, 759284.0, 759987.0, 760607.0, 760648.0, 760805.0, 760942.0, 761434.0, 761724.0, 762067.0, 762314.0, 762368.0, 762476.0, 763541.0, 763756.0, 763889.0, 764177.0, 764444.0, 764543.0, 764811.0, 765593.0, 765616.0, 765787.0, 765796.0, 765962.0, 765974.0, 766006.0, 766271.0, 766445.0, 766638.0, 766769.0, 767055.0, 767622.0, 767726.0, 767824.0, 767952.0, 769486.0, 769671.0, 769718.0, 769738.0, 769908.0, 770040.0, 770366.0, 770382.0, 770543.0, 770761.0, 771352.0, 771554.0, 771871.0, 772026.0, 772744.0, 772812.0, 772899.0, 773260.0, 773642.0, 774254.0, 774297.0, 774305.0, 775279.0, 775616.0, 775836.0, 776638.0, 776671.0, 776744.0, 776783.0, 777009.0, 777168.0, 777349.0, 777378.0, 777462.0, 777513.0, 777583.0, 777647.0, 777650.0, 777748.0, 777811.0, 777855.0, 777890.0, 777983.0, 777998.0, 778440.0, 778648.0, 778690.0, 778737.0, 778818.0, 778845.0, 778960.0, 779110.0, 779148.0, 779291.0, 779625.0, 779662.0, 779820.0, 779822.0, 779949.0, 779956.0, 779986.0, 780011.0, 780079.0, 780294.0, 780368.0, 780447.0, 780464.0, 780804.0, 780863.0, 780896.0, 780964.0, 781032.0, 781134.0, 781435.0, 781456.0, 781459.0, 781471.0, 781522.0, 781568.0, 781629.0, 781637.0, 781694.0, 781728.0, 781764.0, 781966.0, 781991.0, 782106.0, 782331.0, 782470.0, 782494.0, 782542.0, 782545.0, 782678.0, 782688.0, 782714.0, 782770.0, 782798.0, 782940.0, 783007.0, 783022.0, 783144.0, 783299.0, 783387.0, 783421.0, 783503.0, 783549.0, 783601.0, 783644.0, 783699.0, 783745.0, 783762.0, 783928.0, 783931.0, 783990.0, 784154.0, 784363.0, 784401.0, 784419.0, 784431.0, 784552.0, 784576.0, 784689.0, 784909.0, 784919.0, 785022.0, 785035.0, 785143.0, 785184.0, 785187.0, 785285.0, 785285.0, 785286.0, 785293.0, 785453.0, 785459.0, 785514.0, 785544.0, 785775.0, 785963.0, 785994.0, 786062.0, 786156.0, 786198.0, 786236.0, 786299.0, 786356.0, 786426.0, 786429.0, 786460.0, 786632.0, 786746.0, 786778.0, 786880.0, 786917.0, 787005.0, 787040.0, 787067.0, 787104.0, 787109.0, 787114.0, 787238.0, 787276.0, 787354.0, 787365.0, 787374.0, 787444.0, 787461.0, 787492.0, 787623.0, 787700.0, 787739.0, 787743.0, 787816.0, 787824.0, 787894.0, 787901.0, 787941.0, 787977.0, 788042.0, 788100.0, 788136.0, 788158.0, 788200.0, 788259.0, 788260.0, 788286.0, 788298.0, 788372.0, 788392.0, 788407.0, 788458.0, 788542.0, 788556.0, 788592.0, 788600.0, 788719.0, 788744.0, 788748.0, 788769.0, 788779.0, 788881.0, 788886.0, 788897.0, 788948.0, 789005.0, 789292.0, 789411.0, 789765.0, 789840.0, 789903.0, 790047.0, 790132.0, 790210.0, 790390.0, 790784.0, 790814.0, 790831.0, 790910.0, 790914.0, 791413.0, 791438.0, 791533.0, 791605.0, 791660.0, 791848.0, 792009.0, 792093.0, 792108.0, 792308.0, 792312.0, 792339.0, 792386.0, 792447.0, 792511.0, 792537.0, 792576.0, 792777.0, 793091.0, 793208.0, 793321.0, 793444.0, 793511.0, 793563.0, 793591.0, 793710.0, 793843.0, 794000.0, 794016.0, 794040.0, 794056.0, 794307.0, 794309.0, 794383.0, 794428.0, 794469.0, 794515.0, 794556.0, 794645.0, 794976.0, 795000.0, 795420.0, 795552.0, 795562.0, 795956.0, 796083.0, 796183.0, 796184.0, 796695.0, 796729.0, 796804.0, 796903.0, 796903.0, 796938.0, 797031.0, 797128.0, 797184.0, 797364.0, 797367.0, 797437.0, 797459.0, 797596.0, 797748.0, 797762.0, 797762.0, 797961.0, 797978.0, 798025.0, 798031.0, 798223.0, 798339.0, 798348.0, 798437.0, 798493.0, 798690.0, 798710.0, 798756.0, 798802.0, 798855.0, 798911.0, 798935.0, 799003.0, 799071.0, 799104.0, 799181.0, 799200.0, 799355.0, 799395.0, 799479.0, 799506.0, 799518.0, 799543.0, 799599.0, 799625.0, 799646.0, 799663.0, 799683.0, 799707.0, 799743.0, 799748.0, 799800.0, 799970.0, 800013.0, 800082.0, 800084.0, 800093.0, 800308.0, 800430.0, 800430.0, 800449.0, 800463.0, 800573.0, 800625.0, 800705.0, 800713.0, 800762.0, 800772.0, 800867.0, 800880.0, 800905.0, 800939.0, 800959.0, 800966.0, 801091.0, 801158.0, 801250.0, 801414.0, 801417.0, 801431.0, 801450.0, 801477.0, 801542.0, 801546.0, 801582.0, 801623.0, 801655.0, 801669.0, 801731.0, 801791.0, 801795.0, 801823.0, 801878.0, 801910.0, 801947.0, 802042.0, 802043.0, 802138.0, 802158.0, 802278.0, 802289.0, 802349.0, 802407.0, 802512.0, 802536.0, 802540.0, 802596.0, 802605.0, 802677.0, 802711.0, 802728.0, 802730.0, 802741.0, 802760.0, 802765.0, 802831.0, 802881.0, 803022.0, 803035.0, 803039.0, 803134.0, 803159.0, 803312.0, 803317.0, 803413.0, 803417.0, 803533.0, 803655.0, 803708.0, 803772.0, 803828.0, 804016.0, 804207.0, 804417.0, 804452.0, 804460.0, 804500.0, 804522.0, 804572.0, 804594.0, 804627.0, 804657.0, 804784.0, 804883.0, 804909.0, 804924.0, 804935.0, 805155.0, 805333.0, 805372.0, 805510.0, 805588.0, 805686.0, 805756.0, 805773.0, 805776.0, 805849.0, 805893.0, 805897.0, 805909.0, 805996.0, 806074.0, 806194.0, 806203.0, 806233.0, 806281.0, 806307.0, 806348.0, 806601.0, 806665.0, 806685.0, 806700.0, 806714.0, 806824.0, 806850.0, 806927.0, 807010.0, 807023.0, 807078.0, 807086.0, 807159.0, 807227.0, 807264.0, 807378.0, 807474.0, 807589.0, 807736.0, 807805.0, 808036.0, 808490.0, 808768.0, 808864.0, 808974.0, 809007.0, 809304.0, 809306.0, 809357.0, 809448.0, 809554.0, 809637.0, 809716.0, 810329.0, 810691.0, 811124.0, 811937.0, 812104.0, 812275.0, 813425.0, 813588.0, 814294.0, 837684.0, 838695.0, 839071.0, 840275.0, 840378.0, 840814.0, 840945.0, 841089.0, 842346.0, 842521.0, 842942.0, 843154.0, 843592.0, 844373.0, 845665.0, 845744.0, 845953.0, 846383.0, 846399.0, 846540.0, 847710.0, 848027.0, 848160.0, 848375.0, 848571.0, 849065.0, 849086.0, 849169.0, 849349.0, 849609.0, 849870.0, 849878.0, 850367.0, 850489.0, 850577.0, 852348.0, 852609.0, 853331.0, 853458.0, 853490.0, 853566.0, 853632.0, 853909.0, 854145.0, 854171.0, 854520.0, 855086.0, 855124.0, 855348.0, 855381.0, 855693.0, 855723.0, 855868.0, 856158.0, 856565.0, 856577.0, 856651.0, 856685.0, 856742.0, 856789.0, 856917.0, 857060.0, 857524.0, 857709.0, 857794.0, 857916.0, 857999.0, 858139.0, 858175.0, 858856.0, 859316.0, 859436.0, 860397.0, 860594.0, 860681.0, 860703.0, 860821.0, 861280.0, 861529.0, 862651.0, 862927.0, 862930.0, 863070.0, 863119.0, 863127.0, 863134.0, 863229.0, 863237.0, 863390.0, 863543.0, 863720.0, 864095.0, 864141.0, 864325.0, 864630.0, 864683.0, 864845.0, 864851.0, 864896.0, 865095.0, 865275.0, 865376.0, 865393.0, 865425.0, 865511.0, 865537.0, 865579.0, 865823.0, 865949.0, 865972.0, 866236.0, 866372.0, 866637.0, 866711.0, 866743.0, 866883.0, 867009.0, 867026.0, 867215.0, 867423.0, 867444.0, 867452.0, 867474.0, 867493.0, 867575.0, 867605.0, 867642.0, 867645.0, 867648.0, 867689.0, 867739.0, 867781.0, 867862.0, 868049.0, 868080.0, 868153.0, 868153.0, 868173.0, 868222.0, 868290.0, 868298.0, 868362.0, 868372.0, 868377.0, 868411.0, 868499.0, 868545.0, 868657.0, 868692.0, 868800.0, 868817.0, 868952.0, 869015.0, 869042.0, 869200.0, 869249.0, 869326.0, 869328.0, 869329.0, 869524.0, 869558.0, 869615.0, 869622.0, 869642.0, 869696.0, 869733.0, 869733.0, 869803.0, 869815.0, 869859.0, 869866.0, 869953.0, 869979.0, 870009.0, 870040.0, 870051.0, 870087.0, 870327.0, 870328.0, 870369.0, 870389.0, 870409.0, 870430.0, 870478.0, 871051.0, 871081.0, 871238.0, 871414.0, 871421.0, 871448.0, 871452.0, 871551.0, 871561.0, 871733.0, 871744.0, 871775.0, 871806.0, 871882.0, 871921.0, 871951.0, 871958.0, 871978.0, 872241.0, 872268.0, 872281.0, 872477.0, 872501.0, 872572.0, 872643.0, 872954.0, 872957.0, 873008.0, 873027.0, 873031.0, 873039.0, 873071.0, 873113.0, 873133.0, 873244.0, 873269.0, 873369.0, 873457.0, 873521.0, 873603.0, 873604.0, 873619.0, 873700.0, 873759.0, 873771.0, 873824.0, 873863.0, 873891.0, 873977.0, 874001.0, 874015.0, 874025.0, 874051.0, 874061.0, 874077.0, 874079.0, 874094.0, 874102.0, 874143.0, 874143.0, 874248.0, 874284.0, 874301.0, 874374.0, 874405.0, 874504.0, 874519.0, 874585.0, 874615.0, 874650.0, 874651.0, 874673.0, 874690.0, 874733.0, 874790.0, 874792.0, 874793.0, 874822.0, 874848.0, 874884.0, 874927.0, 874945.0, 874977.0, 875203.0, 875206.0, 875224.0, 875230.0, 875302.0, 875344.0, 875392.0, 875582.0, 875616.0, 875620.0, 875645.0, 875689.0, 875754.0, 875796.0, 875840.0, 875940.0, 875982.0, 875986.0, 875989.0, 876003.0, 876007.0, 876061.0, 876194.0, 876195.0, 876244.0, 876268.0, 876309.0, 876372.0, 876379.0, 876420.0, 876496.0, 876567.0, 876587.0, 876710.0, 876712.0, 876723.0, 876832.0, 876871.0, 876928.0, 876974.0, 876988.0, 877021.0, 877118.0, 877297.0, 877323.0, 877351.0, 877427.0, 877433.0, 877440.0, 877467.0, 877521.0, 877538.0, 877562.0, 877643.0, 877724.0, 877766.0, 877799.0, 877908.0, 878016.0, 878017.0, 878164.0, 878403.0, 878432.0, 878455.0, 878482.0, 878529.0, 878592.0, 878603.0, 878617.0, 878632.0, 878646.0, 878727.0, 878841.0, 878902.0, 878956.0, 878975.0, 878981.0, 878985.0, 879010.0, 879020.0, 879070.0, 879075.0, 879111.0, 879141.0, 879500.0, 879579.0, 879581.0, 879623.0, 879637.0, 879642.0, 879678.0, 879698.0, 879701.0, 879704.0, 879795.0, 879798.0, 879816.0, 879881.0, 879944.0, 879983.0, 879988.0, 880008.0, 880110.0, 880128.0, 880137.0, 880165.0, 880278.0, 880347.0, 880409.0, 880564.0, 880633.0, 880639.0, 880699.0, 880742.0, 880812.0, 880946.0, 881011.0, 881047.0, 881061.0, 881075.0, 881238.0, 881349.0, 881403.0, 881482.0, 881574.0, 881636.0, 881659.0, 881684.0, 881691.0, 881725.0, 881737.0, 881742.0, 881983.0, 882013.0, 882035.0, 882090.0, 882299.0, 882333.0, 882363.0, 882405.0, 882406.0, 882480.0, 882503.0, 882507.0, 882527.0, 882533.0, 882567.0, 882610.0, 882630.0, 882652.0, 882662.0, 882710.0, 882718.0, 882730.0, 882803.0, 882838.0, 882841.0, 882970.0, 883059.0, 883228.0, 883235.0, 883318.0, 883448.0, 883549.0, 883565.0, 883604.0, 883755.0, 883826.0, 883843.0, 883858.0, 883864.0, 883918.0, 883924.0, 883954.0, 884048.0, 884096.0, 884118.0, 884236.0, 884352.0, 884402.0, 884414.0, 884519.0, 884620.0, 884667.0, 884720.0, 884729.0, 884799.0, 884830.0, 884915.0, 884921.0, 884935.0, 884938.0, 884949.0, 885061.0, 885119.0, 885275.0, 885282.0, 885297.0, 885348.0, 885357.0, 885374.0, 885426.0, 885441.0, 885454.0, 885561.0, 885597.0, 885636.0, 885712.0, 885785.0, 885834.0, 885909.0, 885945.0, 885951.0, 885965.0, 885979.0, 886050.0, 886065.0, 886081.0, 886222.0, 886239.0, 886279.0, 886300.0, 886352.0, 886374.0, 886475.0, 886588.0, 886594.0, 886663.0, 886675.0, 886688.0, 886736.0, 886843.0, 886952.0, 887032.0, 887093.0, 887101.0, 887128.0, 887191.0, 887219.0, 887241.0, 887275.0, 887362.0, 887450.0, 887459.0, 887499.0, 887520.0, 887553.0, 887571.0, 887726.0, 887779.0, 887836.0, 887847.0, 887905.0, 887911.0, 887923.0, 887945.0, 887947.0, 888016.0, 888053.0, 888127.0, 888290.0, 888348.0, 888373.0, 888379.0, 888496.0, 888500.0, 888506.0, 888507.0, 888640.0, 888713.0, 888787.0, 888919.0, 888973.0, 888991.0, 889053.0, 889107.0, 889114.0, 889116.0, 889153.0, 889164.0, 889233.0, 889292.0, 889339.0, 889354.0, 889359.0, 889361.0, 889477.0, 889484.0, 889544.0, 889588.0, 889621.0, 889668.0, 889668.0, 889726.0, 889763.0, 889813.0, 889886.0, 889902.0, 889999.0, 890027.0, 890173.0, 890188.0, 890323.0, 890400.0, 890501.0, 890520.0, 890525.0, 890579.0, 890584.0, 890629.0, 890687.0, 890792.0, 890973.0, 890979.0, 891060.0, 891070.0, 891096.0, 891124.0, 891129.0, 891145.0, 891248.0, 891281.0, 891283.0, 891287.0, 891303.0, 891333.0, 891366.0, 891410.0, 891478.0, 891490.0, 891502.0, 891522.0, 891537.0, 891550.0, 891645.0, 891747.0, 891806.0, 891839.0, 891855.0, 891895.0, 892011.0, 892021.0, 892239.0, 892274.0, 892292.0, 892348.0, 892371.0, 892382.0, 892425.0, 892448.0, 892466.0, 892483.0, 892522.0, 892526.0, 892532.0, 892577.0, 892612.0, 892702.0, 892751.0, 892851.0, 892858.0, 892892.0, 892900.0, 893161.0, 893213.0, 893247.0, 893264.0, 893313.0, 893426.0, 893541.0, 893557.0, 893563.0, 893576.0, 893672.0, 893862.0, 893881.0, 893979.0, 894021.0, 894141.0, 894168.0, 894214.0, 894349.0, 894363.0, 894371.0, 894455.0, 894692.0, 894768.0, 894858.0, 894862.0, 894974.0, 895165.0, 895165.0, 895226.0, 895285.0, 895293.0, 895317.0, 895489.0, 895549.0, 895629.0, 895634.0, 895739.0, 895760.0, 895814.0, 895864.0, 895933.0, 895943.0, 896021.0, 896033.0, 896126.0, 896132.0, 896292.0, 896406.0, 896410.0, 896746.0, 896908.0, 897210.0, 897244.0, 897381.0, 897425.0, 897557.0, 897752.0, 897879.0, 897947.0, 897960.0, 898609.0, 898699.0, 898864.0, 899023.0, 899534.0, 899762.0, 899811.0, 899970.0, 899979.0, 925689.0, 925941.0, 926478.0, 927324.0, 927400.0, 929752.0, 930313.0, 930536.0, 931635.0, 931956.0, 932914.0, 933070.0, 933685.0, 933692.0, 934310.0, 934690.0, 935169.0, 935467.0, 936344.0, 936540.0, 936598.0, 936707.0, 936759.0, 937184.0, 937254.0, 937787.0, 938816.0, 938901.0, 939020.0, 939083.0, 939116.0, 939352.0, 939426.0, 939529.0, 939684.0, 940548.0, 941532.0, 941618.0, 941840.0, 942050.0, 942131.0, 942301.0, 942412.0, 942469.0, 942820.0, 943410.0, 943427.0, 944106.0, 944982.0, 945607.0, 945936.0, 946004.0, 946040.0, 946070.0, 946077.0, 946101.0, 946151.0, 946199.0, 946214.0, 946255.0, 946362.0, 946445.0, 946954.0, 946997.0, 947280.0, 947342.0, 947359.0, 947491.0, 947561.0, 948239.0, 949486.0, 949598.0, 950025.0, 950026.0, 950042.0, 950074.0, 950255.0, 950280.0, 950308.0, 950349.0, 950414.0, 950420.0, 950467.0, 950474.0, 950493.0, 950548.0, 950566.0, 950692.0, 950763.0, 950805.0, 950889.0, 950970.0, 950970.0, 950979.0, 950995.0, 951073.0, 951271.0, 951388.0, 951390.0, 951434.0, 951491.0, 951546.0, 951652.0, 951667.0, 951689.0, 951761.0, 951777.0, 951835.0, 951875.0, 951935.0, 952090.0, 952181.0, 952220.0, 952273.0, 952466.0, 952543.0, 952574.0, 952608.0, 952849.0, 952865.0, 952973.0, 953002.0, 953085.0, 953191.0, 953216.0, 953352.0, 953558.0, 953642.0, 953657.0, 953822.0, 953874.0, 953890.0, 954027.0, 954115.0, 954248.0, 954263.0, 954359.0, 954434.0, 954452.0, 954497.0, 954862.0, 954896.0, 954958.0, 955061.0, 955121.0, 955134.0, 955220.0, 955234.0, 955278.0, 955352.0, 955371.0, 955379.0, 955401.0, 955448.0, 955471.0, 955565.0, 955665.0, 955761.0, 955797.0, 955858.0, 955969.0, 956068.0, 956119.0, 956164.0, 956276.0, 956291.0, 956299.0, 956349.0, 956371.0, 956545.0, 956603.0, 956650.0, 956821.0, 956892.0, 956894.0, 956949.0, 957018.0, 957069.0, 957113.0, 957126.0, 957482.0, 957683.0, 957732.0, 958006.0, 958082.0, 958150.0, 958186.0, 958196.0, 958390.0, 958431.0, 958473.0, 958613.0, 958645.0, 958696.0, 959083.0, 959116.0, 959148.0, 959346.0, 959416.0, 959421.0, 960431.0, 960498.0, 961059.0, 961265.0, 961529.0, 961594.0, 961663.0, 961677.0, 961686.0, 961725.0, 961780.0, 961849.0, 961930.0, 961954.0, 962017.0, 962082.0, 962150.0, 962214.0, 962679.0, 962726.0, 962733.0, 962768.0, 962878.0, 962880.0, 962883.0, 962927.0, 962996.0, 963000.0, 963042.0, 963053.0, 963067.0, 963147.0, 963178.0, 963197.0, 963300.0, 963470.0, 963554.0, 963569.0, 963657.0, 963855.0, 963865.0, 964038.0, 964130.0, 964156.0, 964211.0, 964303.0, 964317.0, 964375.0, 964420.0, 964457.0, 964732.0, 964870.0, 964909.0, 965005.0, 965092.0, 965135.0, 965228.0, 965649.0, 965653.0, 965808.0, 965892.0, 966091.0, 966459.0, 966475.0, 966673.0, 966684.0, 966695.0, 966701.0, 966753.0, 966779.0, 967173.0, 967203.0, 967223.0, 967229.0, 967291.0, 967339.0, 967341.0, 967479.0, 967968.0, 968096.0, 968530.0, 968889.0, 968932.0, 969289.0, 969551.0, 969617.0, 969626.0, 969786.0, 969894.0, 969913.0, 969923.0, 970008.0, 970067.0, 970215.0, 970225.0, 970255.0, 970304.0, 970355.0, 970417.0, 970431.0, 970450.0, 970473.0, 970480.0, 970508.0, 970626.0, 970663.0, 970796.0, 970871.0, 970929.0, 971020.0, 971072.0, 971110.0, 971134.0, 971160.0, 971362.0, 971391.0, 971452.0, 971544.0, 971805.0, 971811.0, 971915.0, 971978.0, 972032.0, 972048.0, 972139.0, 972252.0, 972379.0, 972395.0, 972509.0, 972561.0, 972626.0, 972674.0, 972703.0, 972710.0, 972736.0, 972812.0, 972854.0, 972896.0, 972970.0, 972976.0, 973069.0, 973082.0, 973165.0, 973232.0, 973326.0, 973478.0, 973503.0, 973550.0, 973710.0, 973790.0, 973809.0, 973985.0, 974087.0, 974109.0, 974207.0, 974446.0, 974479.0, 974518.0, 974542.0, 974590.0, 974618.0, 974795.0, 974818.0, 974852.0, 974880.0, 974935.0, 974948.0, 975018.0, 975112.0, 975175.0, 975320.0, 975480.0, 975529.0, 975549.0, 975579.0, 975789.0, 975888.0, 975891.0, 975994.0, 976057.0, 976086.0, 976104.0, 976326.0, 976437.0, 976467.0, 976591.0, 976669.0, 976736.0, 976818.0, 976820.0, 976838.0, 976865.0, 976872.0, 976885.0, 976903.0, 976921.0, 977000.0, 977019.0, 977067.0, 977095.0, 977282.0, 977399.0, 977465.0, 977609.0, 977628.0, 977911.0, 978193.0, 978215.0, 978230.0, 978686.0, 978687.0, 978722.0, 978780.0, 978921.0, 978965.0, 979262.0, 979356.0, 979397.0, 979478.0, 979546.0, 979697.0, 979824.0, 979837.0, 979922.0, 980006.0, 980114.0, 980128.0, 980280.0, 980450.0, 980483.0, 980672.0, 980716.0, 980717.0, 980829.0, 980912.0, 980954.0, 980984.0, 981110.0, 981127.0, 981538.0, 981671.0, 981990.0, 981995.0, 982137.0, 983025.0, 984303.0, 984351.0, 985493.0, 985505.0, 985739.0, 986947.0, 992021.0, 1011113.0, 1011325.0, 1014636.0, 1015029.0, 1015438.0, 1016353.0, 1016598.0, 1017119.0, 1017702.0, 1017944.0, 1018008.0, 1018968.0, 1020235.0, 1022872.0, 1025998.0, 1026714.0, 1027339.0, 1027475.0, 1029855.0, 1030402.0, 1030578.0, 1030720.0, 1030761.0, 1030877.0, 1031018.0, 1031292.0, 1031572.0, 1031824.0, 1032519.0, 1032772.0, 1032870.0, 1033343.0, 1033355.0, 1033947.0, 1034045.0, 1034322.0, 1035014.0, 1035112.0, 1035331.0, 1035358.0, 1035540.0, 1035641.0, 1035654.0, 1036046.0, 1036154.0, 1036798.0, 1037285.0, 1037449.0, 1037646.0, 1037711.0, 1037893.0, 1037953.0, 1038223.0, 1038472.0, 1038486.0, 1038620.0, 1038870.0, 1039002.0, 1039026.0, 1039213.0, 1039762.0, 1039841.0, 1039932.0, 1039952.0, 1039981.0, 1040067.0, 1040290.0, 1040417.0, 1040442.0, 1040798.0, 1040822.0, 1040892.0, 1040965.0, 1041088.0, 1041185.0, 1041339.0, 1041345.0, 1041377.0, 1041411.0, 1041548.0, 1041852.0, 1041888.0, 1041964.0, 1041994.0, 1042236.0, 1042418.0, 1042550.0, 1042593.0, 1042637.0, 1042688.0, 1042741.0, 1042761.0, 1042805.0, 1043038.0, 1043326.0, 1043415.0, 1043461.0, 1043687.0, 1043835.0, 1044251.0, 1044272.0, 1044364.0, 1044489.0, 1044733.0, 1045051.0, 1045192.0, 1045610.0, 1045637.0, 1045646.0, 1046307.0, 1046540.0, 1046576.0, 1046757.0, 1046783.0, 1046981.0, 1047075.0, 1047153.0, 1047470.0, 1047532.0, 1047630.0, 1047719.0, 1047773.0, 1047900.0, 1047940.0, 1048099.0, 1048252.0, 1048353.0, 1048370.0, 1048434.0, 1048476.0, 1048514.0, 1048542.0, 1048796.0, 1048964.0, 1049039.0, 1049267.0, 1049291.0, 1049325.0, 1049445.0, 1049662.0, 1049749.0, 1049835.0, 1050066.0, 1050308.0, 1050602.0, 1050959.0, 1051040.0, 1051092.0, 1051129.0, 1051680.0, 1051683.0, 1051764.0, 1051841.0, 1051920.0, 1052016.0, 1052089.0, 1052474.0, 1052592.0, 1052677.0, 1052773.0, 1052812.0, 1052897.0, 1053011.0, 1053046.0, 1053182.0, 1053221.0, 1053224.0, 1053259.0, 1053379.0, 1053431.0, 1053476.0, 1053625.0, 1053841.0, 1053867.0, 1055017.0, 1055361.0, 1055686.0, 1055701.0, 1055777.0, 1056280.0, 1056307.0, 1056361.0, 1056411.0, 1056460.0, 1056520.0, 1056705.0, 1056829.0, 1056912.0, 1057097.0, 1057179.0, 1057333.0, 1057340.0, 1057454.0, 1057582.0, 1057588.0, 1057631.0, 1057675.0, 1057684.0, 1057696.0, 1057791.0, 1057898.0, 1057994.0, 1058134.0, 1058450.0, 1058832.0, 1058980.0, 1059040.0, 1059046.0, 1059242.0, 1059508.0, 1059682.0, 1059925.0, 1060031.0, 1060138.0, 1060326.0, 1060390.0, 1060449.0, 1060453.0, 1060499.0, 1060499.0, 1060507.0, 1060551.0, 1060559.0, 1060640.0, 1060848.0, 1061135.0, 1061201.0, 1061230.0, 1061300.0, 1061406.0, 1061633.0, 1061647.0, 1061999.0, 1062091.0, 1062115.0, 1062146.0, 1062291.0, 1062318.0, 1062364.0, 1062474.0, 1062552.0, 1062633.0, 1062751.0, 1063507.0, 1063653.0, 1064114.0, 1064279.0, 1064753.0, 1064807.0, 1064841.0, 1065100.0, 1065263.0, 1065280.0, 1065304.0, 1065993.0, 1066494.0, 1066522.0, 1066747.0, 1066785.0, 1066865.0, 1066888.0, 1067182.0, 1067203.0, 1068506.0, 1069035.0, 1069129.0, 1071682.0, 1072523.0, 1072696.0, 1099971.0, 1100380.0, 1100765.0, 1101367.0, 1101732.0, 1102308.0, 1103371.0, 1103647.0, 1103925.0, 1104741.0, 1105206.0, 1107510.0, 1107873.0, 1107993.0, 1109071.0, 1109383.0, 1110803.0, 1111221.0, 1111251.0, 1111268.0, 1111644.0, 1111866.0, 1112150.0, 1112192.0, 1112250.0, 1112438.0, 1112558.0, 1112715.0, 1113168.0, 1113428.0, 1113475.0, 1113900.0, 1114306.0, 1115309.0, 1115364.0, 1115520.0, 1115815.0, 1115919.0, 1116330.0, 1116340.0, 1116605.0, 1116767.0, 1116848.0, 1118608.0, 1118784.0, 1118790.0, 1119066.0, 1119152.0, 1119169.0, 1120264.0, 1120326.0, 1120927.0, 1121075.0, 1121115.0, 1121118.0, 1121215.0, 1121246.0, 1121641.0, 1121658.0, 1121754.0, 1121806.0, 1122203.0, 1122314.0, 1122557.0, 1122866.0, 1122876.0, 1122933.0, 1123028.0, 1123217.0, 1123268.0, 1123283.0, 1123349.0, 1123711.0, 1123751.0, 1123813.0, 1123818.0, 1124082.0, 1124108.0, 1124432.0, 1124449.0, 1124581.0, 1124712.0, 1124776.0, 1124883.0, 1124992.0, 1125168.0, 1125263.0, 1125264.0, 1125422.0, 1125467.0, 1125512.0, 1125562.0, 1125875.0, 1126103.0, 1126155.0, 1126194.0, 1126361.0, 1126527.0, 1126588.0, 1126649.0, 1126757.0, 1126757.0, 1126854.0, 1126911.0, 1126963.0, 1126998.0, 1127159.0, 1127201.0, 1127218.0, 1127243.0, 1127254.0, 1127433.0, 1127505.0, 1127584.0, 1127648.0, 1127875.0, 1128011.0, 1128088.0, 1128102.0, 1128263.0, 1128309.0, 1128424.0, 1128492.0, 1128674.0, 1128895.0, 1128920.0, 1128969.0, 1129002.0, 1129159.0, 1129207.0, 1129388.0, 1129392.0, 1129587.0, 1129954.0, 1130378.0, 1130577.0, 1130607.0, 1130691.0, 1130731.0, 1130764.0, 1130829.0, 1130870.0, 1131209.0, 1131260.0, 1131271.0, 1131373.0, 1131394.0, 1131536.0, 1131566.0, 1131749.0, 1131760.0, 1131897.0, 1132235.0, 1132468.0, 1132548.0, 1132596.0, 1132628.0, 1132741.0, 1132766.0, 1132856.0, 1133078.0, 1133237.0, 1133239.0, 1133275.0, 1133398.0, 1133429.0, 1133448.0, 1133465.0, 1133506.0, 1134021.0, 1134158.0, 1134196.0, 1134284.0, 1134466.0, 1134591.0, 1134611.0, 1134662.0, 1134748.0, 1134869.0, 1134984.0, 1134995.0, 1135079.0, 1135234.0, 1135281.0, 1135320.0, 1135371.0, 1135433.0, 1135470.0, 1135514.0, 1135671.0, 1135689.0, 1135757.0, 1135800.0, 1135810.0, 1136083.0, 1136086.0, 1136130.0, 1136139.0, 1136153.0, 1136159.0, 1136194.0, 1136319.0, 1136360.0, 1136500.0, 1136569.0, 1136620.0, 1136721.0, 1136741.0, 1136772.0, 1136784.0, 1136861.0, 1136877.0, 1137067.0, 1137073.0, 1137155.0, 1137184.0, 1137430.0, 1137474.0, 1137678.0, 1137717.0, 1137756.0, 1137761.0, 1137788.0, 1137789.0, 1137998.0, 1138101.0, 1138139.0, 1138142.0, 1138168.0, 1138370.0, 1138414.0, 1138450.0, 1138760.0, 1138781.0, 1138924.0, 1138993.0, 1139076.0, 1139112.0, 1139149.0, 1139169.0, 1139215.0, 1139285.0, 1139492.0, 1139615.0, 1139743.0, 1139772.0, 1139979.0, 1140121.0, 1140516.0, 1140534.0, 1140558.0, 1140824.0, 1140877.0, 1140900.0, 1140967.0, 1141293.0, 1141296.0, 1141453.0, 1141610.0, 1142568.0, 1142622.0, 1142654.0, 1142716.0, 1142902.0, 1143270.0, 1143334.0, 1143386.0, 1143481.0, 1143538.0, 1143628.0, 1143661.0, 1143725.0, 1143886.0, 1143919.0, 1143964.0, 1143975.0, 1144087.0, 1144249.0, 1144295.0, 1144319.0, 1144371.0, 1144390.0, 1144421.0, 1144518.0, 1144524.0, 1144569.0, 1144608.0, 1144665.0, 1144729.0, 1144784.0, 1144803.0, 1145046.0, 1145080.0, 1145128.0, 1145129.0, 1145210.0, 1145310.0, 1145393.0, 1145438.0, 1145443.0, 1145558.0, 1145749.0, 1145852.0, 1145854.0, 1145863.0, 1145924.0, 1146185.0, 1146421.0, 1146442.0, 1146537.0, 1146552.0, 1146577.0, 1146603.0, 1146673.0, 1146690.0, 1146902.0, 1147118.0, 1147370.0, 1147572.0, 1147764.0, 1147830.0, 1147885.0, 1148051.0, 1148088.0, 1148171.0, 1148461.0, 1148504.0, 1148528.0, 1148595.0, 1148609.0, 1148621.0, 1148629.0, 1148705.0, 1148716.0, 1148736.0, 1148799.0, 1148805.0, 1148929.0, 1148970.0, 1148992.0, 1149015.0, 1149103.0, 1149113.0, 1149184.0, 1149211.0, 1149307.0, 1149407.0, 1149422.0, 1149454.0, 1149461.0, 1149482.0, 1149512.0, 1149686.0, 1149759.0, 1149769.0, 1149773.0, 1149787.0, 1149842.0, 1149842.0, 1149857.0, 1149953.0, 1149984.0, 1149999.0, 1150078.0, 1150117.0, 1150210.0, 1150225.0, 1150312.0, 1150347.0, 1150355.0, 1150469.0, 1150514.0, 1150554.0, 1150583.0, 1150827.0, 1150861.0, 1150872.0, 1150975.0, 1151234.0, 1151234.0, 1151525.0, 1151668.0, 1151743.0, 1151764.0, 1151770.0, 1151840.0, 1151928.0, 1152142.0, 1152191.0, 1152274.0, 1152381.0, 1152388.0, 1152416.0, 1152438.0, 1152632.0, 1152673.0, 1152708.0, 1152750.0, 1152882.0, 1152965.0, 1152977.0, 1152992.0, 1153016.0, 1153021.0, 1153157.0, 1153209.0, 1153274.0, 1153279.0, 1153761.0, 1153849.0, 1154216.0, 1154327.0, 1154383.0, 1154417.0, 1154512.0, 1154757.0, 1154928.0, 1155009.0, 1155188.0, 1155444.0, 1155473.0, 1155703.0, 1155849.0, 1155867.0, 1155941.0, 1156591.0, 1157161.0, 1157781.0, 1158902.0, 1161193.0, 1185224.0, 1185500.0, 1185638.0, 1185667.0, 1185732.0, 1188203.0, 1191715.0, 1191940.0, 1192445.0, 1193242.0, 1193470.0, 1194365.0, 1194403.0, 1194502.0, 1194872.0, 1194884.0, 1195255.0, 1195647.0, 1196246.0, 1196390.0, 1196727.0, 1197410.0, 1198752.0, 1199092.0, 1200664.0, 1201301.0, 1201792.0, 1203744.0, 1204483.0, 1204577.0, 1204645.0, 1205059.0, 1205229.0, 1205278.0, 1205563.0, 1205601.0, 1206165.0, 1206551.0, 1206877.0, 1207256.0, 1207496.0, 1207593.0, 1207752.0, 1208412.0, 1208495.0, 1208632.0, 1208954.0, 1209147.0, 1209214.0, 1209349.0, 1209547.0, 1209593.0, 1209663.0, 1210065.0, 1210300.0, 1210337.0, 1210449.0, 1210486.0, 1210660.0, 1210686.0, 1210757.0, 1210991.0, 1211017.0, 1211061.0, 1211121.0, 1211177.0, 1211258.0, 1211416.0, 1211521.0, 1211766.0, 1211862.0, 1212081.0, 1212234.0, 1212274.0, 1212302.0, 1212425.0, 1212479.0, 1212567.0, 1213044.0, 1213061.0, 1213174.0, 1213323.0, 1213341.0, 1213617.0, 1213651.0, 1213697.0, 1213708.0, 1213764.0, 1213850.0, 1214097.0, 1214446.0, 1214477.0, 1214667.0, 1214767.0, 1214828.0, 1214882.0, 1215134.0, 1215152.0, 1215193.0, 1215383.0, 1215401.0, 1215464.0, 1215488.0, 1215895.0, 1215978.0, 1216125.0, 1216209.0, 1216495.0, 1216534.0, 1216698.0, 1216766.0, 1216802.0, 1216871.0, 1216872.0, 1216914.0, 1216922.0, 1217023.0, 1217101.0, 1217134.0, 1217444.0, 1217445.0, 1217513.0, 1217550.0, 1217579.0, 1217626.0, 1217629.0, 1217797.0, 1218186.0, 1218937.0, 1218949.0, 1219057.0, 1219089.0, 1219232.0, 1219249.0, 1219272.0, 1219487.0, 1219857.0, 1219989.0, 1220010.0, 1220081.0, 1220130.0, 1220369.0, 1220407.0, 1220410.0, 1220512.0, 1220841.0, 1220848.0, 1221043.0, 1221075.0, 1221307.0, 1221416.0, 1221418.0, 1221487.0, 1221791.0, 1221820.0, 1221823.0, 1221853.0, 1221876.0, 1222166.0, 1222221.0, 1222259.0, 1222396.0, 1222439.0, 1222617.0, 1222666.0, 1222677.0, 1222948.0, 1223169.0, 1223177.0, 1223180.0, 1223194.0, 1223523.0, 1223814.0, 1223906.0, 1224269.0, 1224291.0, 1224416.0, 1224471.0, 1224495.0, 1224564.0, 1224566.0, 1224567.0, 1224629.0, 1224665.0, 1224758.0, 1224984.0, 1225080.0, 1225213.0, 1225228.0, 1225449.0, 1225688.0, 1225864.0, 1226126.0, 1226302.0, 1226310.0, 1226548.0, 1227042.0, 1227163.0, 1227196.0, 1227290.0, 1227387.0, 1227440.0, 1227468.0, 1227610.0, 1228032.0, 1228402.0, 1228443.0, 1228608.0, 1228901.0, 1228957.0, 1229051.0, 1229352.0, 1229379.0, 1229380.0, 1229589.0, 1229589.0, 1229594.0, 1229734.0, 1229760.0, 1229830.0, 1229830.0, 1229935.0, 1230019.0, 1230151.0, 1230210.0, 1230312.0, 1230407.0, 1230519.0, 1230528.0, 1230673.0, 1230842.0, 1230976.0, 1231081.0, 1231288.0, 1231362.0, 1231374.0, 1231403.0, 1231725.0, 1231972.0, 1232004.0, 1232026.0, 1232157.0, 1232159.0, 1232298.0, 1232448.0, 1232755.0, 1232780.0, 1232809.0, 1232837.0, 1232887.0, 1232929.0, 1233010.0, 1233084.0, 1233106.0, 1233138.0, 1233271.0, 1233288.0, 1233333.0, 1233353.0, 1233380.0, 1233784.0, 1233914.0, 1234169.0, 1234187.0, 1234241.0, 1234262.0, 1234290.0, 1234450.0, 1234680.0, 1234747.0, 1235085.0, 1235118.0, 1235156.0, 1235333.0, 1235352.0, 1235352.0, 1235354.0, 1235442.0, 1235541.0, 1235671.0, 1235731.0, 1235800.0, 1235901.0, 1236096.0, 1236113.0, 1236231.0, 1236291.0, 1236322.0, 1236336.0, 1236481.0, 1236611.0, 1236699.0, 1236758.0, 1236900.0, 1236906.0, 1236955.0, 1237070.0, 1237118.0, 1237275.0, 1237454.0, 1237711.0, 1238021.0, 1238078.0, 1238124.0, 1238207.0, 1238228.0, 1238302.0, 1238317.0, 1238401.0, 1238412.0, 1238477.0, 1238624.0, 1238869.0, 1238988.0, 1239039.0, 1239319.0, 1239376.0, 1239497.0, 1239514.0, 1239595.0, 1239636.0, 1239747.0, 1239754.0, 1239825.0, 1239933.0, 1240005.0, 1240429.0, 1240760.0, 1240865.0, 1241108.0, 1241291.0, 1241754.0, 1241754.0, 1241882.0, 1242701.0, 1242803.0, 1243043.0, 1243533.0, 1243757.0, 1244137.0, 1246066.0, 1246152.0, 1269284.0, 1272035.0, 1272844.0, 1273493.0, 1274236.0, 1275775.0, 1276443.0, 1277109.0, 1277170.0, 1277199.0, 1277457.0, 1279015.0, 1279027.0, 1279162.0, 1279435.0, 1280654.0, 1280741.0, 1280953.0, 1281009.0, 1282447.0, 1283008.0, 1283189.0, 1283629.0, 1283896.0, 1283941.0, 1286348.0, 1286802.0, 1287680.0, 1289171.0, 1289243.0, 1291767.0, 1292840.0, 1292852.0, 1293209.0, 1293319.0, 1294781.0, 1294987.0, 1295703.0, 1296040.0, 1296455.0, 1296598.0, 1297018.0, 1297351.0, 1297400.0, 1298173.0, 1298219.0, 1298317.0, 1298595.0, 1298666.0, 1298869.0, 1299549.0, 1299713.0, 1299998.0, 1300541.0, 1301454.0, 1301573.0, 1301599.0, 1301627.0, 1302157.0, 1302194.0, 1302319.0, 1302546.0, 1302822.0, 1303805.0, 1304300.0, 1304622.0, 1304664.0, 1304834.0, 1304972.0, 1305190.0, 1305361.0, 1305444.0, 1305653.0, 1305787.0, 1305835.0, 1306438.0, 1306996.0, 1307079.0, 1307106.0, 1307185.0, 1307286.0, 1307455.0, 1307979.0, 1308278.0, 1308613.0, 1309240.0, 1309273.0, 1309315.0, 1310474.0, 1310790.0, 1311180.0, 1311492.0, 1311822.0, 1312135.0, 1312460.0, 1313363.0, 1313406.0, 1313459.0, 1314527.0, 1314770.0, 1315228.0, 1315304.0, 1315709.0, 1315828.0, 1315889.0, 1315922.0, 1316005.0, 1316039.0, 1316079.0, 1316083.0, 1316160.0, 1316185.0, 1317134.0, 1318010.0, 1318474.0, 1318547.0, 1319120.0, 1319273.0, 1319274.0, 1319380.0, 1319582.0, 1319757.0, 1319905.0, 1320320.0, 1321259.0, 1321273.0, 1321946.0, 1321998.0, 1322392.0, 1323882.0, 1323980.0, 1324033.0, 1324264.0, 1324536.0, 1324796.0, 1324972.0, 1324975.0, 1325082.0, 1325085.0, 1325352.0, 1325390.0, 1325398.0, 1325619.0, 1325649.0, 1325816.0, 1326044.0, 1326407.0, 1327625.0, 1328724.0, 1329597.0, 1330222.0, 1330922.0, 1333626.0, 1364313.0, 1364363.0, 1364691.0, 1364929.0, 1366539.0, 1366611.0, 1367076.0, 1367354.0, 1369289.0, 1369602.0, 1369749.0, 1370797.0, 1371095.0, 1371226.0, 1371308.0, 1371374.0, 1371576.0, 1371935.0, 1372325.0, 1373183.0, 1373663.0, 1373801.0, 1373888.0, 1373907.0, 1373978.0, 1374453.0, 1374668.0, 1374773.0, 1375105.0, 1375673.0, 1376972.0, 1377424.0, 1377791.0, 1377884.0, 1378074.0, 1378368.0, 1378499.0, 1378829.0, 1378873.0, 1379173.0, 1379413.0, 1380493.0, 1381273.0, 1381347.0, 1382017.0, 1382048.0, 1382734.0, 1383079.0, 1383350.0, 1383613.0, 1383813.0, 1383879.0, 1383880.0, 1384016.0, 1384312.0, 1384480.0, 1384704.0, 1384918.0, 1384945.0, 1386173.0, 1386207.0, 1386967.0, 1387408.0, 1387956.0, 1388223.0, 1388634.0, 1388648.0, 1389145.0, 1389208.0, 1389256.0, 1389875.0, 1390023.0, 1390034.0, 1390123.0, 1390365.0, 1390613.0, 1391521.0, 1391800.0, 1392324.0, 1392325.0, 1392397.0, 1392408.0, 1392778.0, 1392908.0, 1393039.0, 1393454.0, 1393883.0, 1394418.0, 1394603.0, 1395463.0, 1395500.0, 1395515.0, 1395569.0, 1395835.0, 1396053.0, 1396232.0, 1396646.0, 1396737.0, 1396895.0, 1398153.0, 1398886.0, 1399585.0, 1399678.0, 1400533.0, 1400726.0, 1400778.0, 1400878.0, 1401149.0, 1401965.0, 1402073.0, 1402230.0, 1402259.0, 1402259.0, 1402446.0, 1402463.0, 1402486.0, 1402648.0, 1402817.0, 1404620.0, 1404673.0, 1405209.0, 1405329.0, 1405647.0, 1406729.0, 1406746.0, 1407159.0, 1407356.0, 1407867.0, 1407917.0, 1408249.0, 1408266.0, 1409661.0, 1409918.0, 1410889.0, 1411071.0, 1411728.0, 1412357.0, 1412551.0, 1412666.0, 1412858.0, 1413448.0, 1414075.0, 1415004.0, 1417081.0, 1419567.0, 1435167.0, 1436138.0, 1440923.0, 1445520.0, 1446978.0, 1447219.0, 1447564.0, 1447710.0, 1447762.0, 1448569.0, 1449278.0, 1450051.0, 1450181.0, 1451154.0, 1453183.0, 1453728.0, 1454052.0, 1455344.0, 1455797.0, 1456476.0, 1456858.0, 1457920.0, 1458729.0, 1459238.0, 1459247.0, 1459930.0, 1460031.0, 1460035.0, 1460541.0, 1460575.0, 1461308.0, 1461984.0, 1462278.0, 1462307.0, 1463762.0, 1464700.0, 1466133.0, 1466244.0, 1467383.0, 1468308.0, 1468666.0, 1470010.0, 1470150.0, 1470151.0, 1470453.0, 1470457.0, 1470481.0, 1470784.0, 1470893.0, 1471047.0, 1471354.0, 1471413.0, 1471487.0, 1472032.0, 1472250.0, 1472358.0, 1472504.0, 1472516.0, 1472898.0, 1472927.0, 1472946.0, 1472957.0, 1472973.0, 1473037.0, 1473129.0, 1473142.0, 1473175.0, 1473417.0, 1473442.0, 1473560.0, 1473649.0, 1473913.0, 1473936.0, 1473946.0, 1474398.0, 1474407.0, 1474566.0, 1474873.0, 1475235.0, 1475506.0, 1476338.0, 1477462.0, 1477549.0, 1477879.0, 1477969.0, 1478247.0, 1478321.0, 1478874.0, 1478958.0, 1479063.0, 1479157.0, 1479304.0, 1479517.0, 1479694.0, 1480380.0, 1480552.0, 1480964.0, 1480971.0, 1481571.0, 1481574.0, 1481642.0, 1482041.0, 1482180.0, 1482221.0, 1482665.0, 1482685.0, 1482785.0, 1483070.0, 1484240.0, 1484449.0, 1484542.0, 1484883.0, 1485948.0, 1486273.0, 1486305.0, 1486846.0, 1487744.0, 1487943.0, 1488036.0, 1488315.0, 1488534.0, 1488573.0, 1488664.0, 1488672.0, 1488742.0, 1488802.0, 1488858.0, 1489514.0, 1489838.0, 1489964.0, 1490007.0, 1490349.0, 1490601.0, 1490625.0, 1490854.0, 1491083.0, 1491191.0, 1491425.0, 1491435.0, 1491530.0, 1492514.0, 1492678.0, 1492886.0, 1492895.0, 1493178.0, 1493259.0, 1493270.0, 1493310.0, 1493725.0, 1493866.0, 1493880.0, 1493927.0, 1494037.0, 1494582.0, 1494683.0, 1495034.0, 1495323.0, 1495443.0, 1496254.0, 1496404.0, 1496489.0, 1496532.0, 1496739.0, 1496763.0, 1496976.0, 1497620.0, 1498321.0, 1498342.0, 1498465.0, 1498628.0, 1498697.0, 1498737.0, 1498995.0, 1499734.0, 1499927.0, 1499927.0, 1500102.0, 1500139.0, 1500685.0, 1500773.0, 1500860.0, 1500899.0, 1500993.0, 1501022.0, 1501432.0, 1501481.0, 1501570.0, 1502257.0, 1502384.0, 1504221.0, 1506807.0, 1520409.0, 1530053.0, 1532302.0, 1537353.0, 1537580.0, 1539283.0, 1540416.0, 1542125.0, 1542239.0, 1544615.0, 1545070.0, 1545706.0, 1546089.0, 1546100.0, 1546291.0, 1546622.0, 1546763.0, 1547353.0, 1547709.0, 1548101.0, 1553261.0, 1553336.0, 1553447.0, 1553487.0, 1553765.0, 1553775.0, 1553896.0, 1554038.0, 1554954.0, 1555738.0, 1556146.0, 1556643.0, 1557149.0, 1557672.0, 1557884.0, 1558921.0, 1559106.0, 1559251.0, 1559581.0, 1560612.0, 1560878.0, 1561242.0, 1562228.0, 1562703.0, 1562995.0, 1563234.0, 1564245.0, 1564942.0, 1565149.0, 1565263.0, 1565529.0, 1565687.0, 1566108.0, 1566695.0, 1568910.0, 1569544.0, 1569675.0, 1569797.0, 1570860.0, 1571686.0, 1571903.0, 1572293.0, 1572476.0, 1572981.0, 1573414.0, 1573587.0, 1573678.0, 1573813.0, 1574042.0, 1574246.0, 1574420.0, 1574475.0, 1576572.0, 1576619.0, 1576754.0, 1577314.0, 1577653.0, 1577738.0, 1578072.0, 1578134.0, 1578220.0, 1578327.0, 1578606.0, 1579060.0, 1581724.0, 1581949.0, 1582577.0, 1582826.0, 1583602.0, 1583756.0, 1583763.0, 1584213.0, 1584278.0, 1584439.0, 1584495.0, 1584699.0, 1585114.0, 1585178.0, 1585858.0, 1589197.0, 1589850.0, 1590052.0, 1599755.0, 1600522.0, 1617890.0, 1619263.0, 1620753.0, 1622592.0, 1625593.0, 1626564.0, 1626983.0, 1627052.0, 1627145.0, 1628577.0, 1628941.0, 1628980.0, 1629403.0, 1630064.0, 1631424.0, 1633739.0, 1633861.0, 1633908.0, 1634180.0, 1637862.0, 1639084.0, 1641910.0, 1642323.0, 1642606.0, 1643146.0, 1643559.0, 1644518.0, 1646539.0, 1647273.0, 1648356.0, 1648828.0, 1649618.0, 1649858.0, 1649873.0, 1650068.0, 1650662.0, 1650846.0, 1651796.0, 1652505.0, 1652687.0, 1653216.0, 1653615.0, 1653888.0, 1653892.0, 1654650.0, 1655229.0, 1655280.0, 1655785.0, 1656823.0, 1658201.0, 1658733.0, 1660382.0, 1661541.0, 1662393.0, 1662413.0, 1662735.0, 1662822.0, 1662823.0, 1663062.0, 1663826.0, 1664242.0, 1665669.0, 1666569.0, 1666727.0, 1667756.0, 1668709.0, 1669564.0, 1671541.0, 1671943.0, 1673035.0, 1675161.0, 1675281.0, 1701817.0, 1707440.0, 1709590.0, 1713462.0, 1713478.0, 1715794.0, 1719902.0, 1721086.0, 1721157.0, 1722590.0, 1722714.0, 1723269.0, 1723723.0, 1723878.0, 1724327.0, 1728123.0, 1728262.0, 1728294.0, 1729795.0, 1729842.0, 1730001.0, 1730686.0, 1730782.0, 1730789.0, 1730843.0, 1730846.0, 1731424.0, 1731563.0, 1731800.0, 1731980.0, 1732302.0, 1732456.0, 1732460.0, 1732643.0, 1732870.0, 1732995.0, 1733308.0, 1734397.0, 1734602.0, 1734678.0, 1734739.0, 1734790.0, 1734905.0, 1734939.0, 1735289.0, 1735586.0, 1735743.0, 1736774.0, 1737060.0, 1737641.0, 1737721.0, 1737746.0, 1738424.0, 1738589.0, 1740153.0, 1741097.0, 1741243.0, 1741252.0, 1741345.0, 1741783.0, 1742390.0, 1742436.0, 1744601.0, 1745006.0, 1745208.0, 1745339.0, 1746271.0, 1746281.0, 1747073.0, 1747184.0, 1747478.0, 1748068.0, 1748240.0, 1749368.0, 1749411.0, 1749736.0, 1749987.0, 1750734.0, 1751379.0, 1753479.0, 1753530.0, 1753659.0, 1754164.0, 1754309.0, 1754446.0, 1754889.0, 1754996.0, 1755076.0, 1755179.0, 1755253.0, 1755551.0, 1755604.0, 1755674.0, 1756157.0, 1756187.0, 1756384.0, 1756547.0, 1756712.0, 1757097.0, 1757465.0, 1757543.0, 1757655.0, 1757858.0, 1757883.0, 1758506.0, 1759129.0, 1760343.0, 1795259.0, 1795555.0, 1797924.0, 1798383.0, 1799358.0, 1799634.0, 1799866.0, 1800609.0, 1803926.0, 1804908.0, 1805031.0, 1805087.0, 1807819.0, 1808352.0, 1809882.0, 1811315.0, 1812194.0, 1812609.0, 1814965.0, 1815040.0, 1815725.0, 1816785.0, 1816892.0, 1817444.0, 1818015.0, 1818167.0, 1818200.0, 1818414.0, 1818610.0, 1818753.0, 1819505.0, 1820260.0, 1820482.0, 1820841.0, 1821947.0, 1822172.0, 1822416.0, 1822797.0, 1823451.0, 1823647.0, 1823907.0, 1824054.0, 1824324.0, 1825372.0, 1825647.0, 1826223.0, 1827116.0, 1827123.0, 1827155.0, 1827487.0, 1827583.0, 1827640.0, 1828292.0, 1830388.0, 1830973.0, 1831149.0, 1831848.0, 1832329.0, 1832589.0, 1833316.0, 1833419.0, 1834019.0, 1834442.0, 1834711.0, 1834767.0, 1834959.0, 1835448.0, 1836166.0, 1836342.0, 1836349.0, 1836451.0, 1836697.0, 1836968.0, 1837304.0, 1838969.0, 1839158.0, 1839377.0, 1839412.0, 1839571.0, 1839679.0, 1839947.0, 1839983.0, 1840044.0, 1840680.0, 1840909.0, 1841728.0, 1841730.0, 1841992.0, 1842218.0, 1843959.0, 1844277.0, 1844978.0, 1846382.0, 1846415.0, 1846579.0, 1846897.0, 1847463.0, 1848162.0, 1848202.0, 1875319.0, 1883578.0, 1887150.0, 1890506.0, 1893216.0, 1893586.0, 1893882.0, 1894446.0, 1897827.0, 1898492.0, 1899403.0, 1901634.0, 1902108.0, 1902275.0, 1902579.0, 1902827.0, 1903133.0, 1904316.0, 1905270.0, 1905984.0, 1907732.0, 1909123.0, 1909234.0, 1909795.0, 1909905.0, 1910139.0, 1914162.0, 1914196.0, 1914526.0, 1915160.0, 1916063.0, 1917010.0, 1917243.0, 1917655.0, 1920082.0, 1920384.0, 1920543.0, 1921064.0, 1921375.0, 1921475.0, 1921674.0, 1921904.0, 1922425.0, 1923074.0, 1923132.0, 1923480.0, 1923743.0, 1925463.0, 1927481.0, 1929175.0, 1930618.0, 1930979.0, 1931202.0, 1932789.0, 1933526.0, 1968785.0, 1969284.0, 1972356.0, 1980545.0, 1981496.0, 1986176.0, 1987180.0, 1988268.0, 1988995.0, 1989314.0, 1990896.0, 1991719.0, 1992968.0, 1992976.0, 1993048.0, 1993108.0, 1993112.0, 1993163.0, 1993352.0, 1994042.0, 1997256.0, 1997311.0, 1997583.0, 1997612.0, 1999728.0, 2000441.0, 2003134.0, 2005062.0, 2005516.0, 2005646.0, 2005896.0, 2007826.0, 2007989.0, 2008059.0, 2008634.0, 2010273.0, 2010729.0, 2010849.0, 2011192.0, 2013541.0, 2016045.0, 2016529.0, 2018685.0, 2020407.0, 2020979.0, 2059151.0, 2059529.0, 2061116.0, 2069809.0, 2073333.0, 2075134.0, 2076692.0, 2078336.0, 2078363.0, 2078382.0, 2078546.0, 2078554.0, 2078892.0, 2078960.0, 2079349.0, 2080789.0, 2081098.0, 2082726.0, 2083311.0, 2085595.0, 2086130.0, 2086600.0, 2086675.0, 2086697.0, 2086940.0, 2087625.0, 2088305.0, 2088313.0, 2088581.0, 2090231.0, 2090389.0, 2090420.0, 2090964.0, 2092322.0, 2092432.0, 2092629.0, 2092768.0, 2093512.0, 2093626.0, 2093758.0, 2093773.0, 2093822.0, 2093994.0, 2094165.0, 2094200.0, 2094240.0, 2094327.0, 2094745.0, 2094817.0, 2095044.0, 2095156.0, 2095275.0, 2095405.0, 2095708.0, 2095833.0, 2096732.0, 2097716.0, 2098055.0, 2098111.0, 2098608.0, 2099077.0, 2099121.0, 2100013.0, 2100282.0, 2100404.0, 2100444.0, 2100486.0, 2102107.0, 2102519.0, 2102597.0, 2103347.0, 2103558.0, 2103769.0, 2104735.0, 2105741.0, 2106983.0, 2109856.0, 2137792.0, 2142059.0, 2147425.0, 2159183.0, 2160780.0, 2161443.0, 2162022.0, 2166704.0, 2167934.0, 2168697.0, 2168798.0, 2169090.0, 2169453.0, 2171528.0, 2171583.0, 2172832.0, 2173784.0, 2173797.0, 2174177.0, 2177701.0, 2177928.0, 2179064.0, 2181868.0, 2182283.0, 2184359.0, 2188039.0, 2188166.0, 2192622.0, 2194437.0, 2223800.0, 2234095.0, 2244578.0, 2246414.0, 2246491.0, 2248419.0, 2248672.0, 2251007.0, 2251016.0, 2251316.0, 2254873.0, 2256960.0, 2257760.0, 2258507.0, 2258624.0, 2260381.0, 2261186.0, 2261272.0, 2261320.0, 2261812.0, 2262007.0, 2265907.0, 2266612.0, 2268330.0, 2269063.0, 2270506.0, 2273154.0, 2274323.0, 2275045.0, 2275185.0, 2275743.0, 2314464.0, 2315345.0, 2315968.0, 2318240.0, 2324271.0, 2325855.0, 2328106.0, 2332514.0, 2333946.0, 2334239.0, 2334530.0, 2334605.0, 2334829.0, 2335666.0, 2336233.0, 2336355.0, 2338023.0, 2338499.0, 2338597.0, 2339596.0, 2340713.0, 2342106.0, 2342215.0, 2343262.0, 2344086.0, 2344248.0, 2344925.0, 2345627.0, 2345645.0, 2346217.0, 2347085.0, 2349271.0, 2349479.0, 2350862.0, 2350916.0, 2350965.0, 2352373.0, 2352461.0, 2352494.0, 2353261.0, 2353304.0, 2353488.0, 2354763.0, 2354874.0, 2355543.0, 2355685.0, 2358528.0, 2358718.0, 2358787.0, 2359026.0, 2359172.0, 2359975.0, 2360542.0, 2361379.0, 2365756.0, 2366066.0, 2367206.0, 2367299.0, 2405428.0, 2410827.0, 2413319.0, 2416197.0, 2419751.0, 2419979.0, 2420418.0, 2421627.0, 2421642.0, 2422266.0, 2422700.0, 2424200.0, 2425133.0, 2425317.0, 2425945.0, 2430696.0, 2430924.0, 2431273.0, 2431410.0, 2438361.0, 2438558.0, 2440488.0, 2442480.0, 2443046.0, 2443460.0, 2443698.0, 2444072.0, 2444237.0, 2444261.0, 2445528.0, 2445782.0, 2445872.0, 2446296.0, 2446317.0, 2447009.0, 2447104.0, 2448061.0, 2448507.0, 2448847.0, 2449131.0, 2449467.0, 2450286.0, 2450672.0, 2450725.0, 2452623.0, 2461163.0, 2480075.0, 2490903.0, 2491107.0, 2495385.0, 2498388.0, 2502208.0, 2505371.0, 2506622.0, 2507831.0, 2509927.0, 2509991.0, 2510809.0, 2512152.0, 2516782.0, 2517308.0, 2518720.0, 2522425.0, 2523267.0, 2524778.0, 2525960.0, 2526319.0, 2532327.0, 2537123.0, 2538168.0, 2538261.0, 2538310.0, 2538352.0, 2575196.0, 2581399.0, 2586593.0, 2599049.0, 2601143.0, 2601589.0, 2605872.0, 2606216.0, 2607116.0, 2607186.0, 2607644.0, 2608682.0, 2610464.0, 2612788.0, 2612832.0, 2615194.0, 2616009.0, 2616866.0, 2617586.0, 2617858.0, 2620487.0, 2624285.0, 2657371.0, 2677443.0, 2679860.0, 2679944.0, 2680385.0, 2684691.0, 2684993.0, 2687003.0, 2689979.0, 2692679.0, 2694450.0, 2698136.0, 2698979.0, 2700135.0, 2700337.0, 2700551.0, 2702902.0, 2703888.0, 2711557.0, 2712395.0, 2712594.0, 2742827.0, 2755652.0, 2761400.0, 2762046.0, 2762454.0, 2772643.0, 2774032.0, 2774785.0, 2775053.0, 2781697.0, 2785126.0, 2785771.0, 2785931.0, 2786086.0, 2787230.0, 2788012.0, 2788538.0, 2790370.0, 2790803.0, 2791682.0, 2792360.0, 2842203.0, 2846189.0, 2847603.0, 2855025.0, 2856328.0, 2856407.0, 2869126.0, 2875792.0, 2876589.0, 2877066.0, 2877828.0, 2881530.0, 2921422.0, 2927706.0, 2934163.0, 2936767.0, 2941971.0, 2942582.0, 2942841.0, 2944299.0, 2944907.0, 2947220.0, 2950516.0, 2955191.0, 2955270.0, 2955338.0, 2955616.0, 2955661.0, 2958984.0, 2959695.0, 2962196.0, 2964446.0, 2964596.0, 2968563.0, 2968618.0, 2969343.0, 2975338.0, 2997772.0, 3006082.0, 3011922.0, 3016795.0, 3025112.0, 3025294.0, 3025584.0, 3025937.0, 3026686.0, 3028318.0, 3030260.0, 3031410.0, 3031573.0, 3033906.0, 3035800.0, 3038287.0, 3039478.0, 3041421.0, 3041488.0, 3043685.0, 3043701.0, 3043768.0, 3044940.0, 3045506.0, 3045932.0, 3046083.0, 3046244.0, 3046721.0, 3046842.0, 3047034.0, 3048862.0, 3050327.0, 3050566.0, 3054195.0, 3054286.0, 3054458.0, 3056525.0, 3061565.0, 3115413.0, 3119087.0, 3121028.0, 3121127.0, 3122338.0, 3123785.0, 3124005.0, 3133224.0, 3133699.0, 3134680.0, 3134889.0, 3138399.0, 3139152.0, 3142172.0, 3143189.0, 3166290.0, 3205423.0, 3208265.0, 3210658.0, 3213592.0, 3215026.0, 3216885.0, 3229066.0, 3282946.0, 3283620.0, 3284797.0, 3285978.0, 3286026.0, 3287074.0, 3287359.0, 3287953.0, 3289512.0, 3290300.0, 3291504.0, 3294584.0, 3297432.0, 3298242.0, 3298957.0, 3300432.0, 3301583.0, 3301972.0, 3303054.0, 3306204.0, 3307300.0, 3309667.0, 3355759.0, 3376479.0, 3388706.0, 3389871.0, 3390535.0, 3393087.0, 3394092.0, 3398760.0, 3461219.0, 3462422.0, 3462986.0, 3468035.0, 3480817.0, 3481009.0, 3485144.0, 3485470.0, 3524678.0, 3528472.0, 3539062.0, 3542748.0, 3551622.0, 3555132.0, 3563253.0, 3564709.0, 3564907.0, 3569512.0, 3572323.0, 3584967.0, 3586038.0, 3636134.0, 3636146.0, 3644388.0, 3648034.0, 3649449.0, 3649521.0, 3649605.0, 3649839.0, 3649984.0, 3650113.0, 3650304.0, 3651560.0, 3654442.0, 3655313.0, 3659691.0, 3707499.0, 3715713.0, 3716800.0, 3720391.0, 3739074.0, 3739687.0, 3749229.0, 3796597.0, 3812765.0, 3813475.0, 3816558.0, 3822208.0, 3830679.0, 3835337.0, 3872360.0, 3879543.0, 3891241.0, 3891562.0, 3891716.0, 3897797.0, 3908921.0, 3910100.0, 3910305.0, 3910798.0, 3915381.0, 3915661.0, 3915744.0, 3957250.0, 3964024.0, 3971467.0, 3983712.0, 3984163.0, 3985294.0, 3988727.0, 3990683.0, 4007991.0, 4040229.0, 4090085.0, 4127525.0, 4152786.0, 4156318.0, 4158692.0, 4161329.0, 4162475.0, 4163608.0, 4171442.0, 4172078.0, 4172346.0, 4176337.0, 4234869.0, 4236540.0, 4237371.0, 4244586.0, 4245464.0, 4245755.0, 4247625.0, 4254385.0, 4261762.0, 4263457.0, 4311517.0, 4331751.0, 4334549.0, 4347238.0, 4349855.0, 4428753.0, 4432997.0, 4493905.0, 4497911.0, 4510700.0, 4513627.0, 4517284.0, 4518300.0, 4520306.0, 4524045.0, 4595510.0, 4603913.0, 4607032.0, 4662925.0, 4671933.0, 4681756.0, 4688506.0, 4757839.0, 4758861.0, 4764680.0, 4766178.0, 4817644.0, 4835420.0, 4859113.0, 4860138.0, 4864670.0, 4924764.0, 4924995.0, 4928287.0, 4945132.0, 4945383.0, 4951607.0, 4951661.0, 4951745.0, 5011595.0, 5022352.0, 5023102.0, 5026420.0, 5040535.0, 5084121.0, 5102436.0, 5127152.0, 5193958.0, 5204756.0, 5218813.0, 5271193.0, 5282633.0, 5317116.0, 5350056.0, 5359000.0, 5372970.0, 5373578.0, 5376475.0, 5452218.0, 5453002.0, 5461549.0, 5467646.0, 5468685.0, 5469625.0, 5470374.0, 5532244.0, 5620993.0, 5625230.0, 5626923.0, 5635880.0, 5640925.0, 5703689.0, 5717431.0, 5723956.0, 5728150.0, 5731680.0, 5732096.0, 5732357.0, 5779795.0, 5804765.0, 5820138.0, 5965171.0, 5974902.0, 5976039.0, 5976407.0, 5985070.0, 6047581.0, 6067622.0, 6067766.0, 6068104.0, 6068179.0, 6233536.0, 6244424.0, 6310285.0, 6311984.0, 6318579.0, 6389200.0, 6389326.0, 6395720.0, 6402073.0, 6415740.0, 6425757.0, 6500820.0, 6567422.0, 6571607.0, 6589699.0, 6591280.0, 6652090.0, 6654890.0, 6668054.0, 6672318.0, 6678642.0, 6744484.0, 6762990.0, 6890568.0, 6915664.0, 6916466.0, 6918853.0, 6919426.0, 6919501.0, 6922635.0, 6922882.0, 6930593.0, 6993623.0, 7012203.0, 7012781.0, 7023347.0, 7183059.0, 7197423.0, 7275236.0, 7360055.0, 7374350.0, 7378767.0, 7456803.0, 7458282.0, 7539207.0, 7604758.0, 7630842.0, 7693788.0, 7711349.0, 7805821.0, 7805914.0, 7836299.0, 7865419.0, 7969599.0, 8046556.0, 8306590.0, 8476634.0, 8542099.0, 8751071.0, 8833696.0, 9074263.0, 9351226.0, 9358163.0, 9431905.0, 9594682.0, 9617230.0, 9697613.0, 10399249.0, 10560926.0, 10830526.0, 11494791.0, 11755479.0, 11762074.0, 11846246.0, 11938769.0, 12031348.0, 12552375.0, 12800402.0, 12973807.0, 13062060.0, 13157040.0, 13248501.0, 13490843.0, 13502731.0, 13503979.0, 13504417.0, 13582525.0, 13643181.0, 14890944.0, 14943225.0, 14984042.0, 15471334.0, 15664227.0, 15687979.0, 15749919.0, 16578839.0, 16626594.0, 17210699.0, 17446867.0, 19276336.0, 19884947.0, 20554488.0, 22951707.0, 24449485.0, 24716726.0, 25134235.0, 29749088.0, 31811914.0]\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.5",
+   "versions": [
+    {
+     "start_checkpoint": 1716668881824,
+     "parent": "c.0.30",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 10791.34it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "Average Throughput from Submission to Paying:           id_submission org:resource_submission  \\\n0       st_step 86794_0            STAFF MEMBER   \n1       st_step 86798_0            STAFF MEMBER   \n2       st_step 86804_0            STAFF MEMBER   \n3       st_step 86733_0            STAFF MEMBER   \n4       st_step 86738_0            STAFF MEMBER   \n...                 ...                     ...   \n11157  st_step 138339_0            STAFF MEMBER   \n11158  st_step 138346_0            STAFF MEMBER   \n11159  st_step 138353_0            STAFF MEMBER   \n11160  st_step 138356_0            STAFF MEMBER   \n11161  st_step 138363_0            STAFF MEMBER   \n\n                 concept:name_submission time:timestamp_submission  \\\n0      Declaration SUBMITTED by EMPLOYEE 2017-01-09 09:49:50+00:00   \n1      Declaration SUBMITTED by EMPLOYEE 2017-01-09 10:26:14+00:00   \n2      Declaration SUBMITTED by EMPLOYEE 2017-01-09 11:13:33+00:00   \n3      Declaration SUBMITTED by EMPLOYEE 2017-01-09 11:24:20+00:00   \n4      Declaration SUBMITTED by EMPLOYEE 2017-01-09 11:30:26+00:00   \n...                                  ...                       ...   \n11157  Declaration SUBMITTED by EMPLOYEE 2018-12-28 16:45:13+00:00   \n11158  Declaration SUBMITTED by EMPLOYEE 2018-12-28 16:46:49+00:00   \n11159  Declaration SUBMITTED by EMPLOYEE 2018-12-28 19:18:21+00:00   \n11160  Declaration SUBMITTED by EMPLOYEE 2018-12-28 19:42:39+00:00   \n11161  Declaration SUBMITTED by EMPLOYEE 2018-12-29 17:50:14+00:00   \n\n      org:role_submission  case:id_submission   case:concept:name  \\\n0                EMPLOYEE   declaration 86791   declaration 86791   \n1                EMPLOYEE   declaration 86795   declaration 86795   \n2                EMPLOYEE   declaration 86800   declaration 86800   \n3                EMPLOYEE   declaration 86731   declaration 86731   \n4                EMPLOYEE   declaration 86735   declaration 86735   \n...                   ...                 ...                 ...   \n11157            EMPLOYEE  declaration 138337  declaration 138337   \n11158            EMPLOYEE  declaration 138343  declaration 138343   \n11159            EMPLOYEE  declaration 138349  declaration 138349   \n11160            EMPLOYEE  declaration 138354  declaration 138354   \n11161            EMPLOYEE  declaration 138359  declaration 138359   \n\n      case:BudgetNumber_submission case:DeclarationNumber_submission  \\\n0                     budget 86566          declaration number 86792   \n1                     budget 86566          declaration number 86796   \n2                     budget 86566          declaration number 86801   \n3                     budget 86566          declaration number 86732   \n4                     budget 86566          declaration number 86736   \n...                            ...                               ...   \n11157                 budget 86566         declaration number 138338   \n11158                 budget 86566         declaration number 138344   \n11159                 budget 86566         declaration number 138350   \n11160                 budget 86566         declaration number 138355   \n11161                 budget 86566         declaration number 138360   \n\n       case:Amount_submission                 id_paying org:resource_paying  \\\n0                   26.851205   dd_declaration 86791_20              SYSTEM   \n1                  182.464172   dd_declaration 86795_20              SYSTEM   \n2                  320.646137   dd_declaration 86800_20              SYSTEM   \n3                  113.862047   dd_declaration 86731_20              SYSTEM   \n4                  134.404169   dd_declaration 86735_20              SYSTEM   \n...                       ...                       ...                 ...   \n11157                6.360310  dd_declaration 138337_20              SYSTEM   \n11158                6.360310  dd_declaration 138343_20              SYSTEM   \n11159              446.667698  dd_declaration 138349_20              SYSTEM   \n11160              214.205763  dd_declaration 138354_20              SYSTEM   \n11161              190.404576  dd_declaration 138359_20              SYSTEM   \n\n      concept:name_paying     time:timestamp_paying org:role_paying  \\\n0         Payment Handled 2017-01-12 17:31:22+00:00       UNDEFINED   \n1         Payment Handled 2017-03-13 17:30:59+00:00       UNDEFINED   \n2         Payment Handled 2017-02-13 17:32:14+00:00       UNDEFINED   \n3         Payment Handled 2017-01-16 17:32:14+00:00       UNDEFINED   \n4         Payment Handled 2017-01-16 17:32:14+00:00       UNDEFINED   \n...                   ...                       ...             ...   \n11157     Payment Handled 2019-01-17 17:31:35+00:00       UNDEFINED   \n11158     Payment Handled 2019-01-17 17:31:35+00:00       UNDEFINED   \n11159     Payment Handled 2019-01-10 17:31:08+00:00       UNDEFINED   \n11160     Payment Handled 2019-01-10 17:31:08+00:00       UNDEFINED   \n11161     Payment Handled 2019-01-10 17:31:08+00:00       UNDEFINED   \n\n           case:id_paying case:BudgetNumber_paying  \\\n0       declaration 86791             budget 86566   \n1       declaration 86795             budget 86566   \n2       declaration 86800             budget 86566   \n3       declaration 86731             budget 86566   \n4       declaration 86735             budget 86566   \n...                   ...                      ...   \n11157  declaration 138337             budget 86566   \n11158  declaration 138343             budget 86566   \n11159  declaration 138349             budget 86566   \n11160  declaration 138354             budget 86566   \n11161  declaration 138359             budget 86566   \n\n      case:DeclarationNumber_paying  case:Amount_paying         duration  \n0          declaration number 86792           26.851205  3 days 07:41:32  \n1          declaration number 86796          182.464172 63 days 07:04:45  \n2          declaration number 86801          320.646137 35 days 06:18:41  \n3          declaration number 86732          113.862047  7 days 06:07:54  \n4          declaration number 86736          134.404169  7 days 06:01:48  \n...                             ...                 ...              ...  \n11157     declaration number 138338            6.360310 20 days 00:46:22  \n11158     declaration number 138344            6.360310 20 days 00:44:46  \n11159     declaration number 138350          446.667698 12 days 22:12:47  \n11160     declaration number 138355          214.205763 12 days 21:48:29  \n11161     declaration number 138360          190.404576 11 days 23:40:54  \n\n[11162 rows x 20 columns] seconds\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.6",
+   "versions": [
+    {
+     "start_checkpoint": 1716668936530,
+     "parent": "c.0.31",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 10574.01it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "Average Throughput from Submission to Paying:           id_submission org:resource_submission  \\\n0       st_step 86794_0            STAFF MEMBER   \n1       st_step 86798_0            STAFF MEMBER   \n2       st_step 86804_0            STAFF MEMBER   \n3       st_step 86733_0            STAFF MEMBER   \n4       st_step 86738_0            STAFF MEMBER   \n...                 ...                     ...   \n11157  st_step 138339_0            STAFF MEMBER   \n11158  st_step 138346_0            STAFF MEMBER   \n11159  st_step 138353_0            STAFF MEMBER   \n11160  st_step 138356_0            STAFF MEMBER   \n11161  st_step 138363_0            STAFF MEMBER   \n\n                 concept:name_submission time:timestamp_submission  \\\n0      Declaration SUBMITTED by EMPLOYEE 2017-01-09 09:49:50+00:00   \n1      Declaration SUBMITTED by EMPLOYEE 2017-01-09 10:26:14+00:00   \n2      Declaration SUBMITTED by EMPLOYEE 2017-01-09 11:13:33+00:00   \n3      Declaration SUBMITTED by EMPLOYEE 2017-01-09 11:24:20+00:00   \n4      Declaration SUBMITTED by EMPLOYEE 2017-01-09 11:30:26+00:00   \n...                                  ...                       ...   \n11157  Declaration SUBMITTED by EMPLOYEE 2018-12-28 16:45:13+00:00   \n11158  Declaration SUBMITTED by EMPLOYEE 2018-12-28 16:46:49+00:00   \n11159  Declaration SUBMITTED by EMPLOYEE 2018-12-28 19:18:21+00:00   \n11160  Declaration SUBMITTED by EMPLOYEE 2018-12-28 19:42:39+00:00   \n11161  Declaration SUBMITTED by EMPLOYEE 2018-12-29 17:50:14+00:00   \n\n      org:role_submission  case:id_submission   case:concept:name  \\\n0                EMPLOYEE   declaration 86791   declaration 86791   \n1                EMPLOYEE   declaration 86795   declaration 86795   \n2                EMPLOYEE   declaration 86800   declaration 86800   \n3                EMPLOYEE   declaration 86731   declaration 86731   \n4                EMPLOYEE   declaration 86735   declaration 86735   \n...                   ...                 ...                 ...   \n11157            EMPLOYEE  declaration 138337  declaration 138337   \n11158            EMPLOYEE  declaration 138343  declaration 138343   \n11159            EMPLOYEE  declaration 138349  declaration 138349   \n11160            EMPLOYEE  declaration 138354  declaration 138354   \n11161            EMPLOYEE  declaration 138359  declaration 138359   \n\n      case:BudgetNumber_submission case:DeclarationNumber_submission  \\\n0                     budget 86566          declaration number 86792   \n1                     budget 86566          declaration number 86796   \n2                     budget 86566          declaration number 86801   \n3                     budget 86566          declaration number 86732   \n4                     budget 86566          declaration number 86736   \n...                            ...                               ...   \n11157                 budget 86566         declaration number 138338   \n11158                 budget 86566         declaration number 138344   \n11159                 budget 86566         declaration number 138350   \n11160                 budget 86566         declaration number 138355   \n11161                 budget 86566         declaration number 138360   \n\n       case:Amount_submission                 id_paying org:resource_paying  \\\n0                   26.851205   dd_declaration 86791_20              SYSTEM   \n1                  182.464172   dd_declaration 86795_20              SYSTEM   \n2                  320.646137   dd_declaration 86800_20              SYSTEM   \n3                  113.862047   dd_declaration 86731_20              SYSTEM   \n4                  134.404169   dd_declaration 86735_20              SYSTEM   \n...                       ...                       ...                 ...   \n11157                6.360310  dd_declaration 138337_20              SYSTEM   \n11158                6.360310  dd_declaration 138343_20              SYSTEM   \n11159              446.667698  dd_declaration 138349_20              SYSTEM   \n11160              214.205763  dd_declaration 138354_20              SYSTEM   \n11161              190.404576  dd_declaration 138359_20              SYSTEM   \n\n      concept:name_paying     time:timestamp_paying org:role_paying  \\\n0         Payment Handled 2017-01-12 17:31:22+00:00       UNDEFINED   \n1         Payment Handled 2017-03-13 17:30:59+00:00       UNDEFINED   \n2         Payment Handled 2017-02-13 17:32:14+00:00       UNDEFINED   \n3         Payment Handled 2017-01-16 17:32:14+00:00       UNDEFINED   \n4         Payment Handled 2017-01-16 17:32:14+00:00       UNDEFINED   \n...                   ...                       ...             ...   \n11157     Payment Handled 2019-01-17 17:31:35+00:00       UNDEFINED   \n11158     Payment Handled 2019-01-17 17:31:35+00:00       UNDEFINED   \n11159     Payment Handled 2019-01-10 17:31:08+00:00       UNDEFINED   \n11160     Payment Handled 2019-01-10 17:31:08+00:00       UNDEFINED   \n11161     Payment Handled 2019-01-10 17:31:08+00:00       UNDEFINED   \n\n           case:id_paying case:BudgetNumber_paying  \\\n0       declaration 86791             budget 86566   \n1       declaration 86795             budget 86566   \n2       declaration 86800             budget 86566   \n3       declaration 86731             budget 86566   \n4       declaration 86735             budget 86566   \n...                   ...                      ...   \n11157  declaration 138337             budget 86566   \n11158  declaration 138343             budget 86566   \n11159  declaration 138349             budget 86566   \n11160  declaration 138354             budget 86566   \n11161  declaration 138359             budget 86566   \n\n      case:DeclarationNumber_paying  case:Amount_paying   duration  \n0          declaration number 86792           26.851205   286892.0  \n1          declaration number 86796          182.464172  5468685.0  \n2          declaration number 86801          320.646137  3046721.0  \n3          declaration number 86732          113.862047   626874.0  \n4          declaration number 86736          134.404169   626508.0  \n...                             ...                 ...        ...  \n11157     declaration number 138338            6.360310  1730782.0  \n11158     declaration number 138344            6.360310  1730686.0  \n11159     declaration number 138350          446.667698  1116767.0  \n11160     declaration number 138355          214.205763  1115309.0  \n11161     declaration number 138360          190.404576  1035654.0  \n\n[11162 rows x 20 columns] seconds\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.7",
+   "versions": [
+    {
+     "start_checkpoint": 1716668950364,
+     "parent": "c.0.32",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 11006.28it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "Average Throughput from Submission to Paying: 991091.2664397062 seconds\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.8",
+   "versions": [
+    {
+     "start_checkpoint": 1716669012017,
+     "parent": "c.0.35",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 11029.24it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "Average Throughput from Submission to Paying: 11.470963731941044 seconds\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.9",
+   "versions": [
+    {
+     "start_checkpoint": 1716669019727,
+     "parent": "c.0.36",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:01<00:00, 10489.50it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "Average Throughput from Submission to Paying: 11.470963731941044 days\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "artifact_name": "o.10",
+   "versions": [
+    {
+     "start_checkpoint": 1716669745476,
+     "parent": "c.0.40",
+     "raw": [
+      {
+       "name": "stderr",
+       "text": "parsing log, completed traces :: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10500/10500 [00:00<00:00, 10802.46it/s]\n",
+       "output_type": "stream"
+      },
+      {
+       "name": "stdout",
+       "text": "Average Throughput from Submission to Paying: 8.455862904990846 days\n",
+       "output_type": "stream"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
